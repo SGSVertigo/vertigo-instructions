@@ -1,4 +1,6 @@
-
+output:
+  md_document:
+    variant: markdown_github
 
 
 # VertigoIMU: Data analysis with Matlab  <img style="float: right;" src="matlab logo.jpg"> 
