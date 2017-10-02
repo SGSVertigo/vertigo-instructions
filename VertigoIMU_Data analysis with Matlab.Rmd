@@ -78,7 +78,7 @@ The following script plots Vertigo's position, velocity and acceleration as poin
 
 Velocity quiver plot                   |  Acceleration qiver plot
 :-------------------------------------:|:-----------------------------------:
-![](car_vel_circle.jpg)                |  
+![](Car_vel_circle.jpg)                |  ![](car_accel_circle.jpg)
 
 
 
