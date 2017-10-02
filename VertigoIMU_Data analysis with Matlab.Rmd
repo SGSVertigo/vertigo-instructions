@@ -107,16 +107,15 @@ Velocity quiver plot                   |  Acceleration qiver plot
 
 1)	load position_vel_accel_graphs.m.
 
-2)	Near the start of the script find the section commented with:
+2)	Click run
 
-<p><span style="color:green">% The start and end times in the data to process</span>.</p>
-
-
-3)	Choose the section of data you wish to look at.  This has been done for the demo file but will need adjusting for your own data.  
-
+3)	You will be asked in the command window "What time do you wish to start analysis from?"  Type your answer, in seconds, in the command window.
+You will then be asked "What time do you wish to end the analysis?" Type your answer, in seconds, in the command window.
+  
 In the demo, the start and end times are 7 seconds and 15 seconds respectively.  Use the very first graph from Vtg_load_data_and_transform to help you decide on the time window to observe.  If your time window exceeds the measured data matlab will respond with a ‘ping’ and the message: 
 
-<p><span style="color:red"> Index exceeds matrix dimensions</span>.</p>.
+### Index exceeds matrix dimensions
+
 4)	Alter the time window values and click run.
 
 
