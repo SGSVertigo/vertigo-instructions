@@ -33,7 +33,7 @@ Once this is complete:
 2)	Copy [these](zipfiles) files into your new folder.
 3)	Open Matlab the programme.
 
-## <a name "load_data"></a>Importing data.
+## <a name = "load_data"></a>Importing data.
 
 1)	Data will have been stored on Vertigo's mico SD card.  Slot this into your SD card reader and insert this into your laptop or computer.  If you do not have an SD card slot, USB SD card readers are readily available.
 
@@ -56,7 +56,7 @@ Once this is complete:
 5)	Notice the active times which you are interested in.  In the example above, the time period from 7- 15 seconds shows the car completing one full circle.
 
 
-## <a name "scripts"></a>Modifying matlab scripts.
+## <a name = "scripts"></a>Modifying matlab scripts.
 
 
 The matlab scripts can be modified by the user.  Please note, any changes made in the editor will automatically update the saved file.  It may be useful to save the file under a different name.  The original versions will always be available here.
