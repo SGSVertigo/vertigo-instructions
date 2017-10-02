@@ -2,7 +2,7 @@
 
 
 
-#VertigoIMU: Data analysis with Matlab  <img style="float: right;" src="matlab logo.jpg"> 
+# VertigoIMU: Data analysis with Matlab  <img style="float: right;" src="matlab logo.jpg"> 
  
 
 
@@ -36,7 +36,7 @@ Once this is complete:
 
 1)	Data will have been stored on Vertigo's mico SD card.  Slot this into your SD card reader and insert this into your laptop or computer.  If you do not have an SD card slot, USB SD card readers are readily available.
 
-2)	In the top right corner of matlab’s home page click ‘open’ and navigate to the matlabfiles folder you created earlier.  Open the programme: vtg_load_data_and_transform.  Click the green arrow to run.
+2)	In the top right corner of matlabâ€™s home page click â€˜openâ€™ and navigate to the matlabfiles folder you created earlier.  Open the programme: vtg_load_data_and_transform.  Click the green arrow to run.
 
 
 ![matlab](picture of matlab.jpg)
@@ -113,7 +113,7 @@ Velocity quiver plot       |  Acceleration qiver plot
 
 3)	Choose the section of data you wish to look at.  This has been done for the demo file but will need adjusting for your own data.  
 
-In the demo, the start and end times are 7 seconds and 15 seconds respectively.  Use the very first graph from Vtg_load_data_and_transform to help you decide on the time window to observe.  If your time window exceeds the measured data matlab will respond with a ‘ping’ and the message: 
+In the demo, the start and end times are 7 seconds and 15 seconds respectively.  Use the very first graph from Vtg_load_data_and_transform to help you decide on the time window to observe.  If your time window exceeds the measured data matlab will respond with a â€˜pingâ€™ and the message: 
 
 <p><span style="color:red"> Index exceeds matrix dimensions</span>.</p>.
 4)	Alter the time window values and click run.
