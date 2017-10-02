@@ -8,6 +8,7 @@ If you're new to VertigoIMU you'll want to read these two pages:
 
 1. [Usage Instructions](usage.md) - How to assemble, collect data with, and troubleshoot the VertigoIMU datalogger
 2. [Log Data Information](logdata.md) - How to interpret and analyse the log files produced by VertigoIMU
+3. [Data Analysis](logdata.md) - 
 
 ## Questions or issues?
 
