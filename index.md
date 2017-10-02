@@ -8,7 +8,7 @@ If you're new to VertigoIMU you'll want to read these two pages:
 
 1. [Usage Instructions](usage.md) - How to assemble, collect data with, and troubleshoot the VertigoIMU datalogger
 2. [Log Data Information](logdata.md) - How to interpret the log files produced by VertigoIMU
-3. [Data Analysis](VertigoIMU_Data analysis with Matlab.Rmd) - How to analyse the log files in Matlab
+3. [Data Analysis](VertigoIMU_Data analysis with Matlab) - How to analyse the log files in Matlab
 )
 
 
