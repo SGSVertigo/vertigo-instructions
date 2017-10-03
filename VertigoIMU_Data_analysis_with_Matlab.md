@@ -36,7 +36,7 @@ Once this is complete:
 2)	In the top right corner of matlab’s home page click ‘open’ and navigate to the matlabfiles folder you created earlier.  Open the programme: vtg_load_data_and_transform.  Click the green arrow to run.
 
 
-![matlab](picture of matlab.jpg)
+![matlab](Picture of matlab.jpg)
 
 
 
