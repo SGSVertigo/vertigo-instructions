@@ -1,8 +1,3 @@
-output:
-  md_document:
-
-
-
 # VertigoIMU: Data analysis with Matlab  <img style="float: right;" src="matlab logo.jpg"> 
  
 
