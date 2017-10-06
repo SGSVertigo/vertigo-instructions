@@ -11,8 +11,19 @@
 #September 2017
 
 
+
+
+
+
+
 by [Jamie Costello](https://twitter.com/sgsphysics)
  
+
+
+
+
+
+
 
 
 ##The new academic year begins.
@@ -24,7 +35,16 @@ Working tirelessly over the summer [JonSowman](https://twitter.com/jonsowman) ha
  
  
  
+ 
+ 
+ 
 ![Jon's Summer job](12 vertigos.jpg)
+ 
+ 
+ 
+ 
+ 
+ 
  
 At present, three schools, beyond the Sutton IRIS hub, have started the journey to Vertigo data analysis.  This involves installing matlab and reviewing a few test files.  Not a completely trivial exercise.  So, taking Jon’s lead, I developed a [webpage](https://sgsvertigo.github.io/vertigo-instructions/VertigoIMU_Data_analysis_with_Matlab.html) to lead schools through, step by step, the nuances of matlab’s graph plotting functions.
 Results from our own preliminary experiments have been very encouraging.  Vertigo continues to amaze all those who have seen it in action.  
