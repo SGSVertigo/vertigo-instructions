@@ -13,7 +13,7 @@
 
 
 
-#September 2017
+September 2017
 
 
 
