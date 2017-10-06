@@ -1,5 +1,4 @@
 
-![](Vertigo_logo.jpg)
 
 
 
@@ -12,8 +11,7 @@
 
 
 
-
-September 2017
+#September 2017
 
 
 
