@@ -25,9 +25,9 @@ For those interested in more information about VertigoIMU:
 * [Serial Numbers](serial.md) - a list of serial numbers of past and present VertigoIMU units, as well as a hardware changelog.
 
 
-## Read the [Vertigo Blog](vertigo_blog)
+## Read the Vertigo Blog
 
-Find out what's happening with Vertigos across the UK.
+Find out what's happening with [Vertigos](vertigo_blog.md) across the UK.
 
 ## Get In Touch
 
