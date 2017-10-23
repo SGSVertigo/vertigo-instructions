@@ -16,7 +16,7 @@
 
 
 
-#September 2017
+# September 2017
 
 
 
@@ -38,7 +38,7 @@ by [Jamie Costello](https://twitter.com/sgsphysics)
 
 
 
-##The new academic year begins.
+## The new academic year begins.
  
 
 
