@@ -21,7 +21,15 @@ Some serious accelerations there.  Notice there are three secions on the rid giv
 
 ![](North_East vel quiver plot stealth.jpg)      |  ![](acceleration on stealth.jpg)
 :-----------------------------------------------:|:----------------------------------:
- Velocity 'Quiver' plot on stealth                 |  Maxiumum acceleration on Stealth
+ Velocity 'Quiver' plot on stealth               |  Maxiumum acceleration on Stealth
+
+
+
+
+
+
+
+
 
 
 
