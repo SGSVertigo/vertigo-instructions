@@ -11,23 +11,21 @@ by [Jamie Costello](https://twitter.com/sgsphysics)
 
 The Young Scientists Journal is the world's only peer-reviewed scientific journal for students.  With an enormous online readership, huge kudos is available if your work accepted by the editors.  It would be wonderful to see a Vertigo team can get an article published.
 
-On October xx a small team of pupils presented their Vertigo work to date to delegates at the annual conference.  A daunting prospect, explaining some pretty tricky science to an audience of over two hundred at one of the most prestigious universities in the world.  Still, IRIS projects help students engage in science but also help develop the softer skills needed to be exceptional scientists and engineers of the future- communication is key.
+![](ysj logo.png)  
 
-To spice things up a little, the pupils rushed off to Thorpe Park and took some data on rides therein. 
+
+
+On October 12th a small team of pupils presented their Vertigo work to date to delegates at the annual conference.  A daunting prospect, explaining some pretty tricky science to an audience of over two hundred, at one of the most prestigious universities in the world.  Still, IRIS projects help students engage in science but also help develop the softer skills needed to be exceptional scientists and engineers of the future- communication is key.
+
+To spice things up a little, the pupils rushed off to Thorpe Park the weekend before and took some data on rides therein. 
 Here are some results.
-Some serious accelerations there.  Notice there are three sections on the rid giving the thrill seekers maximum 'g'.  Only one of these involves a change in speed.  Great school Physics here!
 
 
 ![](North_East vel quiver plot stealth.jpg)      |  ![](acceleration on stealth.jpg)
 :-----------------------------------------------:|:----------------------------------:
  Velocity 'Quiver' plot on stealth               |  Maximum acceleration on Stealth
 
-
-
-
-
-
-
+Impressive accelerations.  Notice, there are three sections on the ride giving thrill seekers maximum 'g'.  Yet, only one of these involves a change in speed.  Some great school Physics for sure.  No doubt a year 10 class would love to learn the correct definition of acceleration at a theme park! 
 
 
 
