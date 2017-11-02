@@ -55,18 +55,20 @@ There’s plenty of anecdotal research that suggests that pupils like the idea o
 Wing Suit flying is an incredibly dangerous activity.  Clearly, it is very enjoyable too.  Some quite exceptional people have died whilst pushing forwards the limits of their sport and some of these people had been friends of Angelo’s.  
 The problem appears to be that the wing suits stall – (their performance dramatically deteriorates as the flier’s angle of attack get to be too high).  Angelo explained all to the pupils and furnished them with some data and understanding which will be of enormous help to them in the coming weeks.
 
-![](presenting.jpg)                                 
+![](20171024_123650.jpg)                                 
 
 
 
 Vertigo is able to measure this angle of attack.  It’s not completely straight forward and pupils will need to brush up on their vector calculus- the dot product has a use beyond our maths text books!
+
+
+![](angle of attack.jpg)
+
 Flying at the international wing suit championships in America- Vertigo will have data from Angelo soon.  Watch this space.
-
-# last bit of news for now.
-
+[Good Luck Angelo](https://www.skydivefyrositylasvegas.com/profile/angelo-grubisic-great-britain/) 
 
 
-
+## last bit of news for now
 
 
 
