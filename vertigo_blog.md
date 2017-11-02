@@ -2,7 +2,29 @@
 ![](Vertigo_logo.jpg)
 
 
+# October 2017
 
+
+by [Jamie Costello](https://twitter.com/sgsphysics)
+
+
+## Vertigo travels to Thorpe Park, Young Scientists Journal Conference and Southampton University
+
+The Young Scientists Journal is the world's only peer-reviewed scientific journal for students.  With an enormous online readership, huge kudos is available if your work accepted by the editors.  It would be wonderful to see a Vertigo team can get an article published.
+
+On October xx a small team of pupils presented their Vertigo work to date to delegates at the annual confernece.  A daunting prospect, explaining some pretty tricky science to an audience of over two hundred at one of the most prestigeous universities in the world.  Still, IRIS projects help students engage in science but also help develop the softer skills needed to be exceptional scientists and engineers of the future- communication is key.
+
+To spice things up a little, the puipls rushed off to Thorpe Park and took some data on rides therein. 
+Here are some results.
+Some serious accelerations there.  Notice there are three secions on the rid giving the thrill seekers maximum 'g'.  Only one of these involves a change in speed.  Great school Physics here!
+
+
+![](brize norton.jpg)      |  ![](angelo.jpg)
+:-------------------------:|:-------------------------:
+ Vertigo on a jet?         |  Dr Grubisic
+
+
+The team did brilliantly and came runner up in the poster competition.  Well done all.
 
 
 
@@ -28,7 +50,6 @@
 
 
 
-by [Jamie Costello](https://twitter.com/sgsphysics)
  
 
 
