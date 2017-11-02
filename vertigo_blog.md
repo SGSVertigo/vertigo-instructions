@@ -1,4 +1,3 @@
-
 ![](Vertigo_logo.jpg)
 
 
@@ -12,16 +11,16 @@ by [Jamie Costello](https://twitter.com/sgsphysics)
 
 The Young Scientists Journal is the world's only peer-reviewed scientific journal for students.  With an enormous online readership, huge kudos is available if your work accepted by the editors.  It would be wonderful to see a Vertigo team can get an article published.
 
-On October xx a small team of pupils presented their Vertigo work to date to delegates at the annual confernece.  A daunting prospect, explaining some pretty tricky science to an audience of over two hundred at one of the most prestigeous universities in the world.  Still, IRIS projects help students engage in science but also help develop the softer skills needed to be exceptional scientists and engineers of the future- communication is key.
+On October xx a small team of pupils presented their Vertigo work to date to delegates at the annual conference.  A daunting prospect, explaining some pretty tricky science to an audience of over two hundred at one of the most prestigious universities in the world.  Still, IRIS projects help students engage in science but also help develop the softer skills needed to be exceptional scientists and engineers of the future- communication is key.
 
-To spice things up a little, the puipls rushed off to Thorpe Park and took some data on rides therein. 
+To spice things up a little, the pupils rushed off to Thorpe Park and took some data on rides therein. 
 Here are some results.
-Some serious accelerations there.  Notice there are three secions on the rid giving the thrill seekers maximum 'g'.  Only one of these involves a change in speed.  Great school Physics here!
+Some serious accelerations there.  Notice there are three sections on the rid giving the thrill seekers maximum 'g'.  Only one of these involves a change in speed.  Great school Physics here!
 
 
 ![](North_East vel quiver plot stealth.jpg)      |  ![](acceleration on stealth.jpg)
 :-----------------------------------------------:|:----------------------------------:
- Velocity 'Quiver' plot on stealth               |  Maxiumum acceleration on Stealth
+ Velocity 'Quiver' plot on stealth               |  Maximum acceleration on Stealth
 
 
 
@@ -39,11 +38,27 @@ Some serious accelerations there.  Notice there are three secions on the rid giv
 
 The team did brilliantly and came runner up in the poster competition.  Well done all.
 
+![](presenting.jpg)                                 |  ![](poster.jpg)
+:-----------------------------------------------:|:----------------------------------:
+ Vertigo team present in Queen’s College|  Vertigo team with runner-up poster
 
 
 
 
 
+
+
+# Wing Suit Flying
+
+There’s plenty of anecdotal research that suggests that pupils like the idea of going into engineering to improve quality of life.  And why not.  After all, what a wonderful feeling to know your work has helped others.  Sometimes that work might even go into life-saving.  It seems Vertigo might have that opportunity.
+
+Wing Suit flying is an incredibly dangerous activity.  Clearly, it is very enjoyable too.  Some quite exceptional people have died whilst pushing forwards the limits of their sport.  Friends of Angelo’s.  The problem appears to be that the wing suits stall – their performance dramatically deteriorates as the flier’s angle of attack get to be too high.  Angelo explained all to the pupils and furnished them with some data which will be of enormous help to them in the coming weeks.
+
+![](presenting.jpg)                                 
+
+
+Vertigo is able to measure this angle of attack.  It’s not completely straight forward and pupils will need to brush up on their vector calculus- the dot product has a use beyond our maths text books!
+Flying at the international wing suit championships in America- Vertigo will have data from Angelo soon.  Watch this space.
 
 
 
