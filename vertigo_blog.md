@@ -19,9 +19,9 @@ Here are some results.
 Some serious accelerations there.  Notice there are three secions on the rid giving the thrill seekers maximum 'g'.  Only one of these involves a change in speed.  Great school Physics here!
 
 
-![](brize norton.jpg)      |  ![](angelo.jpg)
-:-------------------------:|:-------------------------:
- Vertigo on a jet?         |  Dr Grubisic
+![](North_East vel quiver plot stealth.jpg)      |  ![](acceleration on stealth.jpg)
+:-----------------------------------------------:|:----------------------------------:
+ Velocity Quiver plot on stealth                 |  Maxiumum acceleration on Stealth
 
 
 The team did brilliantly and came runner up in the poster competition.  Well done all.
