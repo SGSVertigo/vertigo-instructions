@@ -15,7 +15,7 @@ The [Young Scientists Journal](https://ysjournal.com/) is the world's only peer-
 
 
 
-On October 12th a small team of pupils presented their Vertigo work to date to delegates at the annual conference.  A daunting prospect, explaining some pretty tricky science to an audience of over two hundred, at one of the most prestigious universities in the world.  Still, IRIS projects help students engage in science but also help develop the softer skills needed to be exceptional scientists and engineers of the future- communication is key.
+On October 12th a small cohort of pupils presented their Vertigo work to date to delegates at the annual conference.  A daunting prospect, explaining some pretty tricky science to an audience of over two hundred, at one of the most prestigious universities in the world.  Still, IRIS projects help students engage in science but also help develop the softer skills needed to be exceptional scientists and engineers of the future- communication is key.
 
 To spice things up a little, the pupils rushed off to Thorpe Park the weekend before and took some data on rides therein. 
 Here are some results.
@@ -23,7 +23,7 @@ Here are some results.
 
 ![](North_East vel quiver plot stealth.jpg)      |  ![](acceleration on stealth.jpg)
 :-----------------------------------------------:|:----------------------------------:
- Velocity 'Quiver' plot on stealth               |  Maximum acceleration on Stealth
+ Velocity 'Quiver' plot on Stealth               |  Maximum acceleration on Stealth
 
 Impressive accelerations.  Notice, there are three sections on the ride giving thrill seekers maximum 'g'.  Yet, only one of these involves a change in speed.  Some great school Physics for sure.  No doubt a year 10 class would love to learn the correct definition of acceleration at a theme park! 
 
@@ -48,9 +48,9 @@ The team did brilliantly and came runner up in the poster competition.  Well don
 
 # Wing Suit Flying
 
-There’s plenty of anecdotal research that suggests that pupils like the idea of going into engineering to improve the quality of peoples' lives.  And why not?  After all, what a wonderful feeling to know your work has helped others.  Sometimes that work might even go into life-saving and it seems Vertigo might have that opportunity.
+There’s plenty of anecdotal research that suggests that pupils like the idea of going into engineering as a career to improve the quality of peoples' lives.  And why not?  After all, what a wonderful feeling to know your work has helped others.  Sometimes that work might even go into life-saving and it seems Vertigo might have that opportunity.
 
-Wing Suit flying is an incredibly dangerous activity.  Clearly, it is very enjoyable too.  Sadly, some quite exceptional people have died whilst pushing forwards the limits of their sport and some of these people had been friends of Angelo’s.  
+Wing Suit flying is an incredibly dangerous activity.  Clearly, it is very enjoyable too.  Sadly, some quite exceptional people have died whilst pushing forward the limits of their sport and some of these people had been friends of Angelo’s Grubisic's.  
 The problem appears to be that the wing suits stall – (their performance dramatically deteriorates as the flier’s 'angle of attack' get to be too high).  Angelo explained all to the pupils and furnished them with some data and understanding which will be of enormous help to them in the coming weeks.
 
                                  
@@ -65,7 +65,8 @@ Flying at the international wing suit championships in America- Vertigo will hav
 [Good Luck Angelo](https://www.skydivefyrositylasvegas.com/profile/angelo-grubisic-great-britain/) 
 
 
-## last bit of news for now
+
+
 
 
 
