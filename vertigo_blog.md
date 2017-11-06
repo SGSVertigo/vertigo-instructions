@@ -139,7 +139,7 @@ We also have pupils heading off to Thorpe Park for a second round of data acquis
 :-------------------------:|:-------------------------:
  Colossus Thorpe park     |  Rowers improve the 'catch'.
 
-Promising links have also been developed with St Anne’s at Oxford where their rowing team are interested in a school looking into some data for them- any advantage over the competition.
+Promising links have also been developed with Oriel College at Oxford where their rowing team may be interested in a school looking into some data for them- any advantage over the competition.
 
 Other sporting suggestions continue to roll in.  One person recently suggested we contact British pair, Penny Coomes and Nick Bucklan, who, just last week, won their place at the Winter Olympics in South Korea 2018 .  Vertigo on the leg of a skater completing a triple salchow would be quite something. I am looking for schools to Volunteer.
 
