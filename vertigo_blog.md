@@ -4,7 +4,7 @@
 # October 2017
 
 
-by [Jamie Costello](https://twitter.com/sgsphysics) 
+by [Jamie Costello](https://twitter.com/sgsphysics)                                                                                                
 [Home](index.md)
 
 
