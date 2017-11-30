@@ -1,5 +1,32 @@
 ![](Vertigo_logo.jpg)
 
+# November 2017
+
+
+by [Jamie Costello](https://twitter.com/sgsphysics)                                                                                                
+[Home](index.md)
+
+## Pitches, Rolls, Yawns.
+
+There has been a slight bottle neck in getting vertigos out to schools.  At present, analysis requires matlab and getting this to teachers and pupils has been harder than expected. 
+Mathworks have been very helpful and offered a free licence to a standalone machine to accompany each Vertigo.  This will give an invaluable start to those schools looking forward to analysing results of their own.  The laptop/ vertigo packages are being prepared as I type.
+
+Therefore, this month then I will focus on one of IRIS’ less obvious goals – “To Enrich teachers’ careers”
+I have been teaching Physics for 20 years.  In that time, I have become very familiar with the A-level specification and the kind of questions bright, enthusiastic pupils might ask.  I am keenly aware of the sticking points they might have in moving from a point of cognitive confusion to understanding, but I had completely forgotten what it felt like.  I’ve relearnt it.  And what’s more, I found it far more enjoyable than I did when I was younger.
+
+My journey this last month has taken me on a tour of quaternions and rotating frames of reference.  Vertigo was not kicking out the data we needed but everyone in the team knew it was hidden on the SD card somewhere.  That data mining and analysis was difficult but it was also fun.  And, when I finally found the solution, deeply rewarding.  
+So now I know a little more about quaternions, Euler angles, intrinsic and extrinsic rotations.  All of which will add very little to my day-to-day job.  Except that, through this learning I have reconnected with the feeling of learning itself.  I now have far more empathy with my students having positioned myself on the opposite side of the classroom, and I think it’ll make me a better teacher.
+Me explaining a rotating and world frame at IRIS symposium  Vertigo on a record player
+It has also opened a myriad of questions for me, the proverbial can of worms.  The most troubling, “why did I enjoy getting stuck and finding the work hard whilst my pupils don’t”.  They seem far happier when they- ‘just get it’.
+I have a few hypotheses but I suspect there’s more to learn here.  
+Suffice to say that with the expansion of the internet since I was at university the opportunity for self-guided learning is immense.  Sites such as you tube, the khan academy, Wikipedia and Hyperphysics give huge scope for knowledge acquisition.  There are many less well know pages too, here’s award winning academic Jess Wade’s site- there’s enough here to keep a person busy for weeks!  
+So, I was I wrapping my learning around everyday life.  Something had to give way and that thing was sleep.  I didn’t have much free time during daylight hours and so I ate into a little bit of the night instead.  As a long-term strategy, I suspect this would end in catastrophe but as a one off it was great fun.
+Some results
+Here’s me walking down my road whilst also rotating around a vertical axis (That is a yaw in an extrinsic frame!).  The position plot is trivial.  But what I have also added is my velocity vector and my Yaw angle.  The second graph shows what could be described as my ‘angle of attack’.  The angle between my velocity and the direction I am facing.  I should add, I can now use matlab…
+The angle of attack is important to planes and flying- that’s why it is important here.  Angelo had a few problems gathering data but we’re still hopeful something can be gathered.  Before then, I have started ‘flight club’ at school.  I’ll be welcoming students from St Philomena’s, Wallington Girls as well as from my own school.  As with all my classes- first rule- learning is fun.
+
+
+
 
 # October 2017
 
