@@ -17,7 +17,7 @@ I have been teaching Physics for 20 years.  In that time, I have become very fam
 My journey this last month has taken me on a tour of quaternions and rotating frames of reference.  Vertigo was not kicking out the data we needed but everyone in the team knew it was hidden on the SD card somewhere.  That data mining and analysis was difficult but it was also fun.  And, when I finally found the solution, deeply rewarding.  
 So now I know a little more about quaternions, Euler angles, intrinsic and extrinsic rotations.  All of which will add very little to my day-to-day job.  Except that, through this learning I have reconnected with the feeling of learning itself.  I now have far more empathy with my students having positioned myself on the opposite side of the classroom, and I think it’ll make me a better teacher.
 
-![](CERN@school Symposium.jpg)                    |  ![](acceleration on stealth.jpg)
+![](CERN@school Symposium.jpg)                    |  ![](On record player face up.jpg)
 :-----------------------------------------------:|:----------------------------------:
  Me explaining a rotating and world frame at IRIS symposium.              | Vertigo on a record player
 
