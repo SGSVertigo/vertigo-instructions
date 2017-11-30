@@ -11,10 +11,12 @@ by [Jamie Costello](https://twitter.com/sgsphysics)
 There has been a slight bottle neck in getting vertigos out to schools.  At present, analysis requires matlab and getting this to teachers and pupils has been harder than expected. 
 Mathworks have been very helpful and offered a free licence to a standalone machine to accompany each Vertigo.  This will give an invaluable start to those schools looking forward to analysing results of their own.  The laptop/ vertigo packages are being prepared as I type.
 
+
 Therefore, this month then I will focus on one of IRIS’ less obvious goals – “To Enrich teachers’ careers”
 I have been teaching Physics for 20 years.  In that time, I have become very familiar with the A-level specification and the kind of questions bright, enthusiastic pupils might ask.  I am keenly aware of the sticking points they might have in moving from a point of cognitive confusion to understanding, but I had completely forgotten what it felt like.  I’ve relearnt it.  And what’s more, I found it far more enjoyable than I did when I was younger.
 
 My journey this last month has taken me on a tour of quaternions and rotating frames of reference.  Vertigo was not kicking out the data we needed but everyone in the team knew it was hidden on the SD card somewhere.  That data mining and analysis was difficult but it was also fun.  And, when I finally found the solution, deeply rewarding.  
+
 So now I know a little more about quaternions, Euler angles, intrinsic and extrinsic rotations.  All of which will add very little to my day-to-day job.  Except that, through this learning I have reconnected with the feeling of learning itself.  I now have far more empathy with my students having positioned myself on the opposite side of the classroom, and I think it’ll make me a better teacher.
 
 
@@ -27,7 +29,8 @@ So now I know a little more about quaternions, Euler angles, intrinsic and extri
 
 It has also opened a myriad of questions for me, the proverbial can of worms.  The most troubling, “why did I enjoy getting stuck and finding the work hard whilst my pupils don’t”.  They seem far happier when they- ‘just get it’.
 I have a few hypotheses but I suspect there’s more to learn here.  
-Suffice to say that with the expansion of the internet since I was at university the opportunity for self-guided learning is immense.  Sites such as you tube, the khan academy, Wikipedia and Hyperphysics give huge scope for knowledge acquisition.  There are many less well know pages too, here’s award winning academic Jess Wade’s site- there’s enough here to keep a person busy for weeks!  
+
+Suffice to say that with the expansion of the internet since I was at university the opportunity for self-guided learning is immense.  Sites such as you tube, the khan academy, Wikipedia and Hyperphysics give huge scope for knowledge acquisition.  There are many less well know pages too, here’s award winning academic [Jess Wade’s site](https://makingphysicsfun.com/)- there’s enough here to keep a person busy for weeks!  
 
 
 
