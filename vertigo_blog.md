@@ -35,7 +35,7 @@ Some results
 Here’s me walking down my road whilst also rotating around a vertical axis (That is a yaw in an extrinsic frame!).  The position plot is trivial.  But what I have also added is my velocity vector and my Yaw angle.  The second graph shows what could be described as my ‘angle of attack’.  The angle between my velocity and the direction I am facing.  I should add, I can now use matlab…
 
 
- ![](acceleration on stealth.jpg)         |   ![](Angle of attack - yaw.jpg)
+ ![](Velocity and yaw vectors.jpg)         |   ![](Angle of attack - yaw.jpg)
 :-----------------------------------------------:|:----------------------------------:
   Position, Velocity and Yaw   | Vertigo on a record player
 
