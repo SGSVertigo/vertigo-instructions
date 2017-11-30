@@ -31,7 +31,7 @@ So now I know a little more about quaternions, Euler angles, intrinsic and extri
 It has also opened a myriad of questions for me, the proverbial can of worms.  The most troubling, “why did I enjoy getting stuck and finding the work hard whilst some of my pupils don’t”.  A few seem far happier when they- ‘just get it’.
 I have a hypotheses or two but I suspect there’s more to learn here.  
 
-Suffice to say that with the expansion of the internet since I was at university the opportunity for self-guided learning is immense.  Sites such as you tube, the khan academy, Wikipedia and Hyperphysics give huge scope for knowledge acquisition.  There are many less well know pages too, here’s award winning academic [Jess Wade’s site](https://makingphysicsfun.com/)- there’s enough here to keep a person busy for weeks!  
+Suffice to say that with the expansion of the internet since I was at university the opportunity for self-guided learning is immense.  Sites such as you tube, the khan academy, Wikipedia and Hyperphysics give huge scope for knowledge acquisition.  There are many less well know pages too, here’s award winning academic [Jess Wade’s site](https://makingphysicsfun.com/)- there’s enough here to keep a person busy for weeks. 
 
 
 
@@ -41,7 +41,7 @@ Some results
 
 
 
-Here’s me walking down my road whilst also rotating around a vertical axis (That is a yaw in an extrinsic frame!).  The position plot is trivial.  But what I have also added is my velocity vector and my Yaw angle.  The second graph shows what could be described as my ‘angle of attack’.  The angle between my velocity and the direction I am facing.  I should add, I can now use matlab…
+Here’s me walking down my road whilst also rotating around a vertical axis (That is a yaw in an extrinsic frame-it's also enormously embarrassing!).  The position plot is trivial.  But what I have also added is my velocity vector and my Yaw angle.  The second graph shows what could be described as my ‘angle of attack’.  The angle between my velocity and the direction I am facing.  I should add, I can now use matlab…
 
 
  ![](Velocity and yaw vectors.jpg)         |   ![](Angle of attack - yaw.jpg)
