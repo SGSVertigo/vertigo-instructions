@@ -101,7 +101,7 @@ Velocity quiver plot                   |  Acceleration qiver plot
 
 ### To plot these:
 
-1)	load position_vel_accel_graphs.m.
+1)	load kalman_filter_graphs.m.
 
 2)	Click run
 
