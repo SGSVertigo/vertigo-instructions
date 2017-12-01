@@ -117,7 +117,7 @@ In the demo, the start and end times are 7 seconds and 15 seconds respectively. 
 
 ### Position, pitch, roll and yaw.
 
-The following script plots Vertigo's position, pitch, roll and yaw.  These are rotations around the East, North and Down axes respectively.  
+The script will also plot Vertigo's position, pitch, roll and yaw.  These are rotations around the East, North and Down axes respectively.  
 A person walking clockwise on a flat piece of ground will complete 360 degrees of yaw for every full circle they walk.  The person is rotating around an imaginary axis that points into the ground.  If the walker completed 10 complete revolutions they would have traversed 3600 degrees yaw!  For this reason, pitch, roll and yaw angles are plotted between a maximum of 180 degree and a minimum of -180 degrees.  181 degrees then becomes -179 degrees.  
 The graphs for pitch, roll and yaw can look rather confusing at first sight.  Normally, unless Vertigo does a vertical 'loop the loop' the pitch and roll will always be within the +/-180 degrees axes.  Yaw often exceeds these values.
 
