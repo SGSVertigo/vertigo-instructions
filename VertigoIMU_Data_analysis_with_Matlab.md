@@ -26,7 +26,7 @@ You will first need to download and install Matlab from [Mathworks](http://uk.ma
 Once this is complete:
 
 1)	Create a folder in your computer.  Call it Matlab_files.
-2)	Copy [these](Link files.zip) files into your new folder.
+2)	Copy [these](Link_files.zip) files into your new folder.
 3)	Open Matlab the programme.
 
 ## <a name = "load_data"></a>Importing data.
