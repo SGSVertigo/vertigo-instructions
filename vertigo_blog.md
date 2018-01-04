@@ -8,10 +8,9 @@ by [Jamie Costello](https://twitter.com/sgsphysics)
 
 
 # Removing position estimate drift
+[Example of position estimate drift](#setup)
 
-
-Preamble (skip this for the explanation below [Example of position estimate drift](#setup)
-).  Little has happened throughout the Chritmas period and so I take the opportunity to describe how to perform some more advanced data analysis.
+Little has happened throughout the Chritmas period and so I take the opportunity to describe how to perform some more advanced data analysis.
 
 Students studying any of the sciences at A-level will be familiar with the terms uncertainty and accuracy.  Uncertainty, is affected by experimental noise; a measure of the spread of data around an average value, which is hopefully, an accurate one. Like all electronic devices, Vertigo suffers from noise.
 
