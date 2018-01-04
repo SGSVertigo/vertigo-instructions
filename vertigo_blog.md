@@ -1,5 +1,88 @@
 ![](Vertigo_logo.jpg)
 
+
+# December 2017
+
+by [Jamie Costello](https://twitter.com/sgsphysics)                                                                                                
+[Home](index.md)
+
+
+# Removing position estimate drift
+Preamble (skip this for the explanation below).  Little has happened throughout the Chritmas period and so I take the opportunity to describe how to perform some more advanced data analysis.
+
+Students studying any of the sciences at A-level will be familiar with the terms uncertainty and accuracy.  Uncertainty, is affected by experimental noise; a measure of the spread of data around an average value, which is hopefully, an accurate one. Like all electronic devices, Vertigo suffers from noise.
+
+Accelerometers have a healthy does of it.  In itself, this is not too damaging to our goals of find position because we can find an average and move on (no pun intended).  But, the manner with which we find position from acceleration introduces a whole new set of circumstances.
+
+The most notable being rounding error and global truncation error.
+
+The first is a problem occasionally encountered in an A-Level Physics lab.  There, we generally get the data and do the sums.  By and large, we get them right.  But there is one situation that may resonate with student readers – the times when, a value is calculated, the answer quoted and then this is fed this back into a subsequent question.  Should you use the rounded value or the 10 digit value held in your calculator?  Which one does the examiner want? Imagine then, that Vertigo analysis performs this balancing act 200 times per second.  You’ll already have gathered, after a minute or so, our answer for Vertigo’s position could be way off reality.
+
+Global truncation error is an additional source of drift borne out of the Euler method for solving differential equations by iterative steps (exactly what Vertigo does).  We have to assume that, during a time between sampling data, the acceleration of Vertigo is constant.  It may not be.  But this data is used to predict where Vertigo will be before the acceleration measurement is updated and the calculation rerun.  This is never going to be perfect.  Add in the concept that noise means that they acceleration we record may not in fact be the true value and we have a good recipe for position estimation drift.   It is all fairly challenging.
+
+To make our approximation better Vertigo uses a fast sample rate.  It samples at 200Hz – that’s pretty good, but it’s not perfect.  Care is needed to extract the very best from the data.
+In later posts I will describe how Vertigo uses a Kalman filter to improve position estimation.  Essentially, with two or more data streams, drift can be impressively reduced.
+
+## Example of position estimate drift.
+
+Vertigo has been placed on a bike wheel and spun in a horizontal plane.
+
+In this first graph we see the accelerations in the board and NED frame.  Position is calculated for the North direction from North (NED) accelerations.  Using the trapezium rule, matlab calculates the North, East and Down positions.
+
+![](wheel.5.jpg)                    |  ![](wheel1.jpg)
+:-----------------------------------------------:|:----------------------------------:
+ Accelerations in NED frame.              | Position estimates for North, East and Down
+
+ 
+Notice the East position, it appears to show Vertigo travelling over 300m.  Vertigo was bolted to a desk!  This is the result of drift.
+
+The North direction drifted by over 100m but the information we need is within that graph.  It simply cannot be seen.
+The first thing to do is put the data through a describable ‘high pass filter’.  The major drift is removed but the smaller variations are retained.  To do this matlab is required to find the general function for the curve (the polyfit function) and remove these values (North – pvn).
+
+            pcn = polyfit(imudata(:,1),North,10)
+            pvn = polyval(pcn,imudata(:,1));	
+            plot (imudata(:,1), North - pvn);
+
+The result is shown below.
+![](wheel2.jpg)   
+  
+Miraculously, it is instantly possible to see the oscillatory nature of the acceleration in the North direction.  We can also see the frequency begins to drop as the wheel slows down.  This is impressive.  But why would the amplitude vary?  Vertigo is attached to a wheel’s rim; it should have a constant amplitude…
+
+This is where some added information can be of enormous value.  In this case it is as follows – It is known that the amplitude for this wave pattern ought to be fixed.  Some of the addition ‘wobble’ in the results needs to be removed.
+The first thing to do is home in on the section of data to be analysed.  The section between 5 and 20 seconds has been chosen here.  (Time reads from 0 to 15000ms)
+ 
+ ![](wheel3.jpg)   
+ 
+Next, the tips of the oscillations are identified using the data cursor.
+
+![](wheel4.jpg)   
+  
+
+The same polyfit function, used to removing the larger drift, is used again to find a polynomial curve for the data cursor points.
+ 
+The curve for these cursor points is as follows:
+![](wheel5.jpg)   
+ 
+ 
+This looks rather dramatic but the scale of the graph is very small.  Users can experiment to find the best possible fit by varying the polynomial order matlab uses to fit the curve.  Trial and error is a reasonable method with values between 2 and 6.
+
+Once these values are subtracted from the oscillatory graph the graph below is obtained.  Constant amplitude and no visible drift.
+ 
+![](wheel6.jpg) 
+
+Drift will naturally occur with the gyroscopes too – although more so with the Yaw axis.  It can be removed in a similar way if some added information is available.  An example here might be to know the orientation at the start and end of data collection.  (Gyroscope drift is much easier to remove as it has a linear trend). 
+
+It should also be noted that position drift is normally accounted for with the Kalman filter.  Even indoor investigations, with no GPS signal will still use Kalman logic to avoid large global errors.
+
+The annotated files for the activity above are here.  If drift is removed from the East direction too, it is possible to plot the exact position in space.
+
+
+
+
+
+
+
+
 # November 2017
 
 
