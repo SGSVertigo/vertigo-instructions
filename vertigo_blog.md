@@ -8,7 +8,12 @@ by [Jamie Costello](https://twitter.com/sgsphysics)
 
 
 # Removing position estimate drift
-Preamble (skip this for the explanation below).  Little has happened throughout the Chritmas period and so I take the opportunity to describe how to perform some more advanced data analysis.
+
+* [Setting up your computer](#setup)
+
+
+Preamble (skip this for the explanation below * [Example of position estimate drift](#setup)
+).  Little has happened throughout the Chritmas period and so I take the opportunity to describe how to perform some more advanced data analysis.
 
 Students studying any of the sciences at A-level will be familiar with the terms uncertainty and accuracy.  Uncertainty, is affected by experimental noise; a measure of the spread of data around an average value, which is hopefully, an accurate one. Like all electronic devices, Vertigo suffers from noise.
 
@@ -23,7 +28,7 @@ Global truncation error is an additional source of drift borne out of the Euler 
 To make our approximation better Vertigo uses a fast sample rate.  It samples at 200Hz – that’s pretty good, but it’s not perfect.  Care is needed to extract the very best from the data.
 In later posts I will describe how Vertigo uses a Kalman filter to improve position estimation.  Essentially, with two or more data streams, drift can be impressively reduced.
 
-## Example of position estimate drift.
+## <a name = "setup"></a>Setting up your computer
 
 Vertigo has been placed on a bike wheel and spun in a horizontal plane.  Data has been recorded in the normal way.
 
