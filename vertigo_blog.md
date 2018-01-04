@@ -49,7 +49,7 @@ The result is shown below.
 
 ![](wheel2.jpg)   
   
-Miraculously, it is instantly possible to see the oscillatory nature of the acceleration in the North direction.  The amount of movement is also much more acceptable.  It is possible too to see that the frequency of the wheel begin to drop as it slows down.  All very impressive.  But why would the amplitude vary?  Vertigo is attached to a wheel’s rim; it should have a constant amplitude…
+Miraculously, it is instantly possible to see the oscillatory nature of the acceleration in the North direction.  The amount of movement is also much more acceptable.  It is possible too to see that the frequency of the wheel begins to drop as it slows down.  All very impressive.  But why would the amplitude vary?  Vertigo is attached to a wheel’s rim; it should have a constant amplitude…
 
 This is where some added information can be of enormous value.  In this case it is as follows – It is known that the amplitude for this wave pattern ought to be fixed.  Some of the addition ‘wobble’ in the results needs to be removed.
 The first thing to do is home in on the section of data to be analysed.  The section between 5 and 20 seconds has been chosen here.  (Time reads from 0 to 15000ms)
