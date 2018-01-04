@@ -110,7 +110,7 @@ So now I know a little more about quaternions, Euler angles, intrinsic and extri
 
 ![](rsz_cernschool_symposium.jpg)                    |  ![](On record player face up.jpg)
 :-----------------------------------------------:|:----------------------------------:
- Me explaining a rotating and world frame at IRIS symposium.              | Vertigo on a record player
+ Me explaining a rotating and world frame at IRIS symposium            | My angle of attack as a rotate along a road
 
 
 
