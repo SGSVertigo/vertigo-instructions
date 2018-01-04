@@ -25,13 +25,13 @@ In later posts I will describe how Vertigo uses a Kalman filter to improve posit
 
 ## Example of position estimate drift.
 
-Vertigo has been placed on a bike wheel and spun in a horizontal plane.
+Vertigo has been placed on a bike wheel and spun in a horizontal plane.  Data has been recorded in the normal way.
 
-In this first graph we see the accelerations in the board and NED frame.  Position is calculated for the North direction from North (NED) accelerations.  Using the trapezium rule, matlab calculates the North, East and Down positions.
+In these first graphs, the accelerations in the board, and NED frame, can be seen.  Position is then calculated using the trapezium rule.
 
-![](wheel.5.jpg)                    |  ![](wheel1.jpg)
+![](wheel.5.jpg)                    |  ![](Wheel1.jpg)
 :-----------------------------------------------:|:----------------------------------:
- Accelerations in NED frame.              | Position estimates for North, East and Down
+ Accelerations in board and NED frame.              | Position estimates for North, East and Down
 
  
 Notice the East position, it appears to show Vertigo travelling over 300m.  Vertigo was bolted to a desk!  This is the result of drift.
