@@ -119,7 +119,7 @@ boot. Instead, it will show the low battery warning:
 Vertigo flashes LED1 and LED4 alternately to indicate an error sequence, as
 shown below. If this happens, make sure of the following:
 
-* The SD card is formatted and inserted fully into the slot
+* The SD card is formatted (FAT32) and inserted fully into the slot
 * The Vertigo sensor board is in the correct orientation and fully seated
 
 ![Error LED sequence](errorseq.gif)
