@@ -27,7 +27,7 @@ Once this is complete:
 
 1) There should now be a folder in your computer's documents folder called MATLAB.  If not, create a matlab files folder at a location of your choice.
 
-2) Copy [these](zipfiles) files into your matlab folder that you found in the previou step.
+2) Copy [these](Link_files) files into your matlab folder that you found in the previou step.
 
 3) Open the Matlab program.
 
