@@ -86,7 +86,7 @@ Velocity quiver plot                   |  Acceleration qiver plot
 
 ### To plot these:
 
-1)	load kalman_filter_graphs.m from your matlab folder.
+1)	load kalman3D_and_graphs.m from your matlab folder.
 
 2)	Click run.
 
