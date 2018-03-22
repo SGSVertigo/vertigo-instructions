@@ -12,11 +12,11 @@ by [Jamie Costello](https://twitter.com/sgsphysics)
 Time flies. Since the last up-date there have been several steps forward in project Vertigo.
 
 
-The software has been updated and now incorporates a Kalman filter in 3D
+* The software has been updated and now incorporates a Kalman filter in 3D
 
-A new Vertigo blog has been started
+* A new Vertigo blog has been started
 
-The kits have arrived in ten schools across the country
+* The kits have arrived in ten schools across the country
 
 I'll start with the 3D kalman.  
 This is big improvement to the position estimate for Vertigo and allows the user to weight the relevant importance of the GPS data or accelerometer data.
@@ -255,9 +255,11 @@ Some results
 Here’s me walking down my road whilst also rotating around a vertical axis (That is a yaw in an extrinsic frame-it's also enormously embarrassing!).  The position plot is trivial.  But what I have also added is my velocity vector and my Yaw angle.  The second graph shows what could be described as my ‘angle of attack’.  The angle between my velocity and the direction I am facing.  I should add, I can now use matlab…
 
 
- ![](Velocity and yaw vectors.jpg)         |   ![](Angle of attack - yaw.jpg)
+
+ ![](Velocity and yaw vectors.jpg)               |   ![](Angle of attack - yaw.jpg)
 :-----------------------------------------------:|:----------------------------------:
-  Position, Velocity and Yaw   | Vertigo on a record player
+  Position, Velocity and Yaw   | Angle of attack
+
 
 
 
