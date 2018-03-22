@@ -19,8 +19,8 @@ Time flies. Since the last up-date there have been several steps forward in proj
 * The kits have arrived in ten schools across the country
 
 I'll start with the 3D kalman.  
-This is big improvement to the position estimate for Vertigo and allows the user to weight the relevant importance of the GPS data or accelerometer data.
-In lines 34 and 35 of the kalman 3D matlab script. We can assign a variance to each of the GPS or accelerometer data.
+This is big improvement to the position estimate for Vertigo and allows the user to weight the relevant importance of the GPS or accelerometer data.
+In lines 34 and 35 of the kalman 3D matlab script. We can assign a variance to each of the GPS or IMU inputs.
 
 gps_var = 1e-6;
 
@@ -69,7 +69,7 @@ There's another Vertigo blog.  Mr Crawford has been recording his school's use o
 [Mr Crawford's blog](http://mrcvertigo.blogspot.co.uk/)  
 
 
-My personal favourite part to date is the project proposal set out by a couple of his pupils.  Good luck team- hopes it all works out well.
+My personal favourite part to date is the project proposal set out by a couple of his pupils.  Good luck team- hopes it all works out well.  Can't wait to see the outcomes.
 
 
 
@@ -83,6 +83,12 @@ My personal favourite part to date is the project proposal set out by a couple o
 ![](Vertigo_proposal.JPG)
 
 
+
+
+
+
+
+And finally, Vertigo is now out in schools across the country.  I am hoping we'll be seeing some results from these schools soon.
 
 
 
