@@ -73,7 +73,45 @@ My personal favourite part to date is the project proposal set out by a couple o
 
 
 
+
+
+
+
+
+
+
+
 ![](Vertigo_proposal.jpg) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
