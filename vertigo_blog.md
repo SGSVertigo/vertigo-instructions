@@ -32,7 +32,16 @@ Using the 3D filter, my team recorded data for a drone flight at our school's pl
 In addition, one of the team decided to recreated the flight in a silicone world.  I love this.  Real data, a significant challenge and brilliant learning- that's what Vertigo's all about.
 
 
+
+
+
 ![](Drone_Flight_matlab.jpg) 
+
+
+
+
+
+
 
 [![IMAGE ALT TEXT](Drone_flight_picture.jpg)](https://www.youtube.com/watch?v=gNItap7M-9o&feature=youtu.be "Drone Flight Data To Animation")
 
