@@ -13,13 +13,17 @@ Time flies. Since the last up-date there have been several steps forward in proj
 
 
 The software has been updated and now incorporates a Kalman filter in 3D
+
 A new Vertigo blog has been started
+
 The kits have arrived in ten schools across the country
 
 I'll start with the 3D kalman.  
 This is big improvement to the position estimate for Vertigo and allows the user to weight the relevant importance of the GPS data or accelerometer data.
 In lines 34 and 35 of the kalman 3D matlab script. We can assign a variance to each of the GPS or accelerometer data.
+
 gps_var = 1e-6;
+
 imu_var = 1e-3;
 
 A larger variance means that the data is less reliable and the position estimate relies less on this data.  Optimising the position output is probably a project in itself...  but it is good fun playing around with these values.
@@ -28,6 +32,7 @@ Using the 3D filter, my team recorded data for a drone flight at our school's pl
 
 
 ![](Drone_Flight_matlab.jpg) 
+
 
 
 In addition, one of the team decided to recreated the flight in a silicone world.  I love this.  Real data, a significant challenge and brilliant learning- that's what Vertigo's all about.  Click the picture to see the full ainimation.
@@ -57,13 +62,16 @@ In addition, one of the team decided to recreated the flight in a silicone world
 
 
 
-# Mr Crawford's blog!
+
+## Mr Crawford's blog!
 
 There's another Vertigo blog.  Mr Crawford has been recording his school's use of the device and the activities they have been performing.  Here's a link:
 [Mr Crawford's blog](http://mrcvertigo.blogspot.co.uk/)  
 
 
 My personal favourite part to date is the project proposal set out by a couple of his pupils.  Good luck team- hopes it all works out well.
+
+
 
 ![](Vertigo_proposal.jpg) 
 
