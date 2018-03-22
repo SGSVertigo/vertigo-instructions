@@ -7,7 +7,7 @@
 by [Jamie Costello](https://twitter.com/sgsphysics)                                                                                                
 [Home](index.md)
 
-# Vertigo is out in schools
+# Vertigo is out in schools!
 
 Time flies. Since the last up-date there have been several steps forward in project Vertigo.
 
@@ -22,20 +22,21 @@ In lines 34 and 35 of the kalman 3D matlab script. We can assign a variance to e
 gps_var = 1e-6;
 imu_var = 1e-3;
 
-A larger variance means that the data is less reliable and the position estimate relies less on this data.  Optimising the position output is probably a project in itself.  But it is good fun playing around with these values.
+A larger variance means that the data is less reliable and the position estimate relies less on this data.  Optimising the position output is probably a project in itself...  but it is good fun playing around with these values.
 
 Using the 3D filter, my team recorded data for a drone flight at our school's playing fields.  Here's a plot of position with accelerations and velocity vectors added.
 
 
-
-
-In addition, one of the team decided to recreated the flight in a silicone world.  I love this.  Real data, a significant challenge and brilliant learning- that's what Vertigo's all about.
-
-
-
-
-
 ![](Drone_Flight_matlab.jpg) 
+
+
+In addition, one of the team decided to recreated the flight in a silicone world.  I love this.  Real data, a significant challenge and brilliant learning- that's what Vertigo's all about.  Click the picture to see the full ainimation.
+
+
+
+
+
+
 
 
 
@@ -44,6 +45,39 @@ In addition, one of the team decided to recreated the flight in a silicone world
 
 
 [![IMAGE ALT TEXT](Drone_flight_picture.jpg)](https://www.youtube.com/watch?v=gNItap7M-9o&feature=youtu.be "Drone Flight Data To Animation")
+
+
+
+
+
+
+
+
+
+
+
+
+# Mr Crawford's blog!
+
+There's another Vertigo blog.  Mr Crawford has been recording his school's use of the device and the activities they have been performing.  Here's a link:
+[Mr Crawford's blog](http://mrcvertigo.blogspot.co.uk/)  
+
+
+My personal favourite part to date is the project proposal set out by a couple of his pupils.  Good luck team- hopes it all works out well.
+
+![](Vertigo_proposal.jpg) 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
