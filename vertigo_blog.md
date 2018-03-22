@@ -12,7 +12,7 @@ by [Jamie Costello](https://twitter.com/sgsphysics)
 Time flies. Since the last up-date there have been several steps forward in project Vertigo.
 
 
-* The software has been updated and now incorporates a Kalman filter in 3D
+* The software has been updated and now incorporates a Kalman filter in 3D 
 
 * A new Vertigo blog has been started
 
@@ -26,7 +26,7 @@ gps_var = 1e-6;
 
 imu_var = 1e-3;
 
-A larger variance means that the data is less reliable and the position estimate relies less on this data.  Optimising the position output is probably a project in itself...  but it is good fun playing around with these values.
+A larger variance means that the data is less reliable and the position estimate relies less on this data.  Optimising the position output is probably a project in itself...  but it is good fun playing around with these values.  The new scripts are [here](Link files.zip)
 
 Using the 3D filter, my team recorded data for a drone flight at our school's playing fields.  Here's a plot of position with accelerations and velocity vectors added.
 
