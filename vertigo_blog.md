@@ -1,6 +1,43 @@
 ![](Vertigo_logo.jpg)
 
 
+
+# February 2018
+
+by [Jamie Costello](https://twitter.com/sgsphysics)                                                                                                
+[Home](index.md)
+
+# Vertigo is out in schools
+
+Time flies. Since thelast up-date there have been several steps forward in project Vertigo.
+
+
+The software has been updated and now incorporates a Kalman filter in 3D
+A new Vertigo blog has been started
+The kits have arrived in ten schools across the country
+
+I'll start with the 3D kalman.  
+This is big improvement to the position estimate for Vertigo and allows the user to weight the relevant importance of the GPS data or accelerometer data.
+In lines 34 and 35 of the kalman 3D matlab script. We can assign a variance to each of the GPS or accelerometer data.
+gps_var = 1e-6;
+imu_var = 1e-3;
+
+A larger variance means that the data is less reliable and the position estimate relies less on this data.  Optimising the position output is probably a project in itself.  But it is good fun playing around with these values.
+
+Using the 3D filter, my team recored data for a drone flight at our school's playing fields.  Here's a plot of position with accelerations and velocity vectors added.
+
+
+
+
+In addition, one of the team decied to recreated the flight in a silicone world.  I love this.  Real data, a significant challenge and brilliant learning- that's what Vertigo's all about.
+
+
+
+
+
+
+
+
 # December 2017
 
 by [Jamie Costello](https://twitter.com/sgsphysics)                                                                                                
