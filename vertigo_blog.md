@@ -34,7 +34,7 @@ In addition, one of the team decided to recreated the flight in a silicone world
 
 ![](Drone_Flight_matlab.jpg) 
 
-[![IMAGE ALT TEXT](Drone_flight_picture.jpg)](https://www.youtube.com/watch?v=gNItap7M-9o&feature=youtu.be"Drone Flight Data To Animation")
+[![IMAGE ALT TEXT](Drone_flight_picture.jpg)](https://www.youtube.com/watch?v=gNItap7M-9o&feature=youtu.be "Drone Flight Data To Animation")
 
 
 
