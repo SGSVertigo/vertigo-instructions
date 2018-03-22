@@ -9,7 +9,7 @@ by [Jamie Costello](https://twitter.com/sgsphysics)
 
 # Vertigo is out in schools
 
-Time flies. Since thelast up-date there have been several steps forward in project Vertigo.
+Time flies. Since the last up-date there have been several steps forward in project Vertigo.
 
 
 The software has been updated and now incorporates a Kalman filter in 3D
@@ -24,14 +24,17 @@ imu_var = 1e-3;
 
 A larger variance means that the data is less reliable and the position estimate relies less on this data.  Optimising the position output is probably a project in itself.  But it is good fun playing around with these values.
 
-Using the 3D filter, my team recored data for a drone flight at our school's playing fields.  Here's a plot of position with accelerations and velocity vectors added.
+Using the 3D filter, my team recorded data for a drone flight at our school's playing fields.  Here's a plot of position with accelerations and velocity vectors added.
 
 
 
 
-In addition, one of the team decied to recreated the flight in a silicone world.  I love this.  Real data, a significant challenge and brilliant learning- that's what Vertigo's all about.
+In addition, one of the team decided to recreated the flight in a silicone world.  I love this.  Real data, a significant challenge and brilliant learning- that's what Vertigo's all about.
 
 
+![](Drone_Flight_matlab.jpg) 
+
+[![IMAGE ALT TEXT](Drone_flight_picture.jpg)](https://www.youtube.com/watch?v=gNItap7M-9o&feature=youtu.be"Drone Flight Data To Animation")
 
 
 
