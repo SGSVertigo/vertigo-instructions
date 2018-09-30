@@ -28,7 +28,7 @@ Sign up for an account with Azure (free) and they will let your run all of this 
 ## <a name = "download"></a> Run jupyter notebooks on your PC
 Or else, download and run locally:
 1. Download anaconda from their website [Anaconda](https://www.anaconda.com/download/)
-2. Download this repository and go to the folder.
+2. Download [this](https://github.com/SGSVertigo/vertigo-python) repository and go to the folder.
 3. From command line, type `conda env create -f environment.yml`. This creates an environment with all of the libraries we need for processing files installed. Next time you come back, you'll want to enter the environment by running `activate pyvertigo` or `source activate pyvertigo`. See the [Anaconda Documentation](https://conda.io/docs/user-guide/tasks/manage-environments.html#activating-an-environment) for more information.
 4. Run the notebook server by calling `jupyter notebook`. The default server address will be `http://localhost:8888`. Navigate to this from your web browser and start playing! More information on running the juypter notebook can be found [here](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html).
 
