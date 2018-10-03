@@ -96,6 +96,12 @@ There’s so much scope for investigation here.  Or, of course, you don’t need
 
 
 
+If you would like to try this type of analysis, the matlab script is [here](FFT3.m) Load data into matlab in the normal way and then run this analysis.
+
+
+
+
+
 
 
 
