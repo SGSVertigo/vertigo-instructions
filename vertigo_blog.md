@@ -29,7 +29,7 @@ First up.
 
 
 
-![](Seconds pendulum.jpg)
+![](Seconds_pendulum.jpg)
 
 
 
@@ -51,7 +51,7 @@ Hey presto- the analysis confirmed my initial thoughts.  There was now a far mor
 
 
 
-![](Seconds pendulum again.jpg)
+![](Seconds_pendulum_again.jpg)
 
 
 
@@ -60,7 +60,7 @@ Chuffed with these results, I set off for some real science.  I took Vertigo for
 
 Here is what I found:
 
-![](Tortional Pendulum.jpg)
+![](Tortional_Pendulum.jpg)
 
 
 There's a dominant frequency of around 1Hz.  Given that my typical stride is just under 2m this gives me a walking speed of around:
