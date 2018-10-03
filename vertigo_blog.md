@@ -62,7 +62,9 @@ Here is the result:
 You’ll note a dominant frequency of around 1Hz, given that my typical stride is just under 2m this gives me a walking speed of around:
 
 V = f λ
+
 V = 1Hz x 2m
+
 V = 2m/s
 
 
@@ -71,10 +73,10 @@ A value confirmed with Vertigo's other analysis features.
 But the graph has posed more questions than it has answered and, as ever with IRIS projects, the answer is not in the back of a book.
 
 So:
-What do the other frequencies relate to?
-Does everyone have the same frequency profile?
-Do different parts of the body oscillate in a similar way?
-What happens if I run?
+* What do the other frequencies relate to?
+* Does everyone have the same frequency profile?
+* Do different parts of the body oscillate in a similar way?
+* What happens if I run?
 
 There’s so much scope for investigation here.  Or, of course, you don’t need to measure humans’ gait.  I doubt this has ever been done on a sloth for example.
 
