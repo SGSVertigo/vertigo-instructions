@@ -21,7 +21,15 @@ The results were fascinating.
 First up.
 
 
-![](.jpg)
+![](Seconds pendulum.jpg)
+
+
+
+![](Seconds pendulum again.jpg)
+
+
+
+![](Tortional pendulum.jpg)
 
 
 This graph shows the frequency of a seconds pendulum I fashion in my kitchen.  This is a classic pendulum with a time period of 2 seconds  (one second each half swing) and hence a frequency of 0.5Hz.
