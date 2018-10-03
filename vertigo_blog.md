@@ -1,5 +1,58 @@
 ![](Vertigo_logo.jpg)
 
+# September 2018
+
+by [Jamie Costello](https://twitter.com/sgsphysics)                                                                                                
+[Home](index.md)
+
+
+# A new type of analysis
+
+
+There’s been a bit of a hiatus in my Vertigo activities due to unexpected changes to my role at school.  I am back now, and very keen to pick-up where I left off; to getting more students enjoying the opportunity the Vertigo project offers them.
+
+We’ve received very generous additional support from the ERAF which means we’re looking to get 20 more Vertigo units out in schools by the middle of next year.  More on those units to come.
+
+For now, I offer a different type of analysis that may be of interest.  
+
+Fiddling around with a Vertigo IMU I decided to see if I could use matlab to give me a Fourier transform of it’s repetitive movements.
+The results were fascinating.
+
+First up.
+
+
+![](.jpg)
+
+
+This graph shows the frequency of a seconds pendulum I fashion in my kitchen.  This is a classic pendulum with a time period of 2 seconds  (one second each half swing) and hence a frequency of 0.5Hz.
+Note the good-looking peak around the required frequency- perfect!   But what’s the odd-looking bulge around 0.2Hz?
+ 
+
+After a little consideration, I realised that the pendulum would also be oscillating around a vertical axis.  It would be a torsional pendulum too.  In my second experiment, I did my best to set the system off with this type of motion alone.
+Hey presto- the analysis confirmed my initial thoughts.  There was now a far more dominant peak at the 0.2Hz the frequency of the torsional oscillations.  With a tiny bit of the seconds pendulum remaining.
+
+Chuffed with these results, I set off for some real science.  I took Vertigo for a walk.
+
+Here is the result:
+
+You’ll not a dominant frequency of around 1Hz, given that my typical stride is about this gives me a walking speed of around:
+
+V = f λ
+V = 1Hz x 
+
+A value confirmed with Vertigos other analysis features.
+
+But the graph has posed more questions than it answered.  And as ever with IRIS projects, the answer is not in the back of a book.
+So:
+What do the other frequencies relate to?
+Does everyone have the same frequency profile?
+Do different parts of the body oscillate in a similar way?
+What happens if I run?
+
+There’s so much scope for investigation here.  Or, of course, you don’t need to measure humans’ gait.  I doubt this has ever been done on a sloth for example.
+
+
+
 
 
 # February 2018
