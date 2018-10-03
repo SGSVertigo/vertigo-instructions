@@ -87,6 +87,16 @@ So:
 There’s so much scope for investigation here.  Or, of course, you don’t need to measure a human's gait.  I doubt Vertigo has ever been done on a sloth, for example.
 
 
+![](sloth.jpg)
+
+
+
+
+
+
+
+
+
 
 
 
