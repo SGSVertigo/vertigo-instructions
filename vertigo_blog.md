@@ -9,10 +9,10 @@ by [Jamie Costello](https://twitter.com/sgsphysics)
 # A new type of analysis
 
 
-There’s been a bit of a hiatus in my Vertigo activities of late due to unexpected changes to my role at school.  I am back now, and very keen to pick-up where I left off; getting more students enjoying the opportunity the Vertigo project offers them.
+There’s been a bit of a hiatus in my Vertigo activities of late due to unexpected changes to my role at school.  I am back now, and very keen to pick-up where I left off; getting more students enjoying the opportunity the Vertigo project offers.
 
 
-We’ve received very generous additional support from the ERAF and this means we’re looking to get 20 more Vertigo units out in schools by the middle of next year.  More on those units to come.
+We’ve received some very generous additional support from the ERAF which means we’re aiming to have 20 more Vertigo units out in schools by the middle of next year.  More on those units to come.
 
 
 For now, I offer a different type of analysis that may be of interest.  
@@ -46,7 +46,10 @@ Note the good-looking peak around the required frequency- perfect!   But what’
 
 
 
-After a little consideration, I realised that the pendulum would also be oscillating around a vertical axis; it would be a torsional pendulum too.  In my second experiment, I did my best to set the system off with this type of motion alone.
+After a little consideration, I realised that the pendulum would also be oscillating around its vertical axis; it would be a torsional pendulum too.  In my second experiment, I did my best to set the system off with this type of motion only.
+
+![](Tortional_Pendulum.jpg)
+
 Hey presto- the analysis confirmed my initial thoughts.  There was now a far more dominant peak at 0.2Hz the frequency of the torsional oscillations, with a tiny bit of the Seconds Pendulum remaining.
 
 
@@ -60,8 +63,7 @@ Chuffed with these results, I set off for some real science.  I took Vertigo for
 
 Here is what I found:
 
-![](Tortional_Pendulum.jpg)
-
+![](walking_FFT.jpg)
 
 There's a dominant frequency of around 1Hz.  Given that my typical stride is just under 2m this gives me a walking speed of around:
 
