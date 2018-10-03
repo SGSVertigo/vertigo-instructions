@@ -37,13 +37,6 @@ First up.
 
 
 
-
-
-
-
-
-
-
 This graph shows the frequency of a seconds pendulum I fashion in my kitchen.  This is a classic pendulum with a time period of 2 seconds  (one second each half swing) and hence a frequency of 0.5Hz.
 Note the good-looking peak around the required frequency- perfect!   But what’s the odd-looking bulge around 0.2Hz?
 
@@ -66,14 +59,16 @@ Here is the result:
 ![](Tortional Pendulum.jpg)
 
 
-You’ll note a dominant frequency of around 1Hz, given that my typical stride is about this gives me a walking speed of around:
+You’ll note a dominant frequency of around 1Hz, given that my typical stride is just under 2m this gives me a walking speed of around:
 
 V = f λ
-V = 1Hz x 
+V = 1Hz x 2m
+V = 2m/s
+
 
 A value confirmed with Vertigo's other analysis features.
 
-But the graph has posed more questions than it has answered.  And as ever with IRIS projects, the answer is not in the back of a book.
+But the graph has posed more questions than it has answered and, as ever with IRIS projects, the answer is not in the back of a book.
 
 So:
 What do the other frequencies relate to?
