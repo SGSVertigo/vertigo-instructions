@@ -9,7 +9,7 @@ by [Jamie Costello](https://twitter.com/sgsphysics)
 # A new type of analysis
 
 
-There’s been a bit of a hiatus in my Vertigo activities of late due to unexpected changes to my role at school.  I am back now, and very keen to pick-up where I left off, getting more students enjoying the opportunities the Vertigo project offers.
+There’s been a bit of a hiatus in my Vertigo activities of late due to unexpected changes to my role at school.  I am back now, and very keen to pick-up where I left off, getting more students enjoying the opportunities the Vertigo project has to offer.
 
 
 We’ve received some additional support from the ERAF and are we’re aiming to have 20 more Vertigo units out in schools by the middle of next year.  More on those units to come.
