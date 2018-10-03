@@ -37,41 +37,44 @@ First up.
 
 
 
+
+
+
+
+
+
+
+This graph shows the frequency of a seconds pendulum I fashion in my kitchen.  This is a classic pendulum with a time period of 2 seconds  (one second each half swing) and hence a frequency of 0.5Hz.
+Note the good-looking peak around the required frequency- perfect!   But what’s the odd-looking bulge around 0.2Hz?
+
+
+
+After a little consideration, I realised that the pendulum would also be oscillating around a vertical axis.  It would be a torsional pendulum too.  In my second experiment, I did my best to set the system off with this type of motion alone.
+Hey presto- the analysis confirmed my initial thoughts.  There was now a far more dominant peak at the 0.2Hz the frequency of the torsional oscillations.  With a tiny bit of the seconds pendulum remaining.
+
+
+
 ![](Seconds pendulum again.jpg)
 
 
 
 
-
-
-
-
-
-
-
-
-![](Tortional pendulum.jpg)
-
-
-This graph shows the frequency of a seconds pendulum I fashion in my kitchen.  This is a classic pendulum with a time period of 2 seconds  (one second each half swing) and hence a frequency of 0.5Hz.
-Note the good-looking peak around the required frequency- perfect!   But what’s the odd-looking bulge around 0.2Hz?
- 
-
-After a little consideration, I realised that the pendulum would also be oscillating around a vertical axis.  It would be a torsional pendulum too.  In my second experiment, I did my best to set the system off with this type of motion alone.
-Hey presto- the analysis confirmed my initial thoughts.  There was now a far more dominant peak at the 0.2Hz the frequency of the torsional oscillations.  With a tiny bit of the seconds pendulum remaining.
-
 Chuffed with these results, I set off for some real science.  I took Vertigo for a walk.
 
 Here is the result:
 
-You’ll not a dominant frequency of around 1Hz, given that my typical stride is about this gives me a walking speed of around:
+![](Tortional Pendulum.jpg)
+
+
+You’ll note a dominant frequency of around 1Hz, given that my typical stride is about this gives me a walking speed of around:
 
 V = f λ
 V = 1Hz x 
 
-A value confirmed with Vertigos other analysis features.
+A value confirmed with Vertigo's other analysis features.
 
-But the graph has posed more questions than it answered.  And as ever with IRIS projects, the answer is not in the back of a book.
+But the graph has posed more questions than it has answered.  And as ever with IRIS projects, the answer is not in the back of a book.
+
 So:
 What do the other frequencies relate to?
 Does everyone have the same frequency profile?
