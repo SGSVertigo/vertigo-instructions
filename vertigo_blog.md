@@ -21,11 +21,32 @@ The results were fascinating.
 First up.
 
 
+
+
+
+
 ![](Seconds pendulum.jpg)
 
 
 
+
+
+
+
+
+
+
+
 ![](Seconds pendulum again.jpg)
+
+
+
+
+
+
+
+
+
 
 
 
