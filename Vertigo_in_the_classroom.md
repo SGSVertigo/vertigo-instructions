@@ -7,6 +7,7 @@
 # Curriculum links
 ### KS3 Physics National Curriculum
 •	speed and the quantitative relationship between average speed, distance and time (speed = distance ÷ time) 
+
 •	the representation of a journey on a distance-time graph
 
 ### KS4 Physics National Curriculum
@@ -20,8 +21,10 @@ It is advisable that teachers familiarise themselves with the process before del
 # Safety 
 Hazzard	
 * Playground surface
+
 Risk	
 * Pupil fall / injury
+
 Control
 * Assess surface conditions before the lesson
 * Cancel if the ground is too slippery
