@@ -21,10 +21,8 @@ It is advisable that teachers familiarise themselves with the process before del
 # Safety 
 Hazzard	
 * Playground surface
-
 Risk	
 * Pupil fall / injury
-
 Control
 * Assess surface conditions before the lesson
 * Cancel if the ground is too slippery
@@ -129,7 +127,7 @@ It is also possible, by de-commenting lines 386 – 390, to view the acceleratio
 It is likely that pupils will want to compare their V/t graphs.  Welcome to the Vertigo project!
  
 
-![](Runners.jpg)
+![](runners.jpg)
 
 
 
