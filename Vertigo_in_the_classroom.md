@@ -54,13 +54,14 @@ On their return, press Vertigo’s log button again.  The solid LED light starts
 
 The following files should be emailed (or otherwise given to the pupils) before the lesson.  (Show my homework or similar may be of help here)  The files need to be used by the pupils from a directory of their own.  Else, any modifications the pupils might make would be apparent to all.
 quatmultiply.m,  vtg_quat2eul.m,  quatconj.m,  load_up_your_data.m,  ll2utm.m getslopeintercept.m,  wbmf.m
+
 These can all be found [here](Ks3_Lesson_link.zip)
 
 
 Ask the pupils to open matlab and, using the top left icon, open the file “Load_up_your data”
 In the meantime, the csv file created will need to be accessed by the pupils.  This should be added to a public drive or emailed to the pupils.
 
-Pupils should execute this script by using the run button top centre of the screen.  They will be prompted to open a file.  This file should be the one recorded in your lesson.
+Pupils should execute this script by using the run button, top centre of the screen.  They will be prompted to open a file.  This file should be the one recorded in the lesson.
 After a short time, a graph similar to the one below, should appear:  
 
 
@@ -78,11 +79,11 @@ Pupils should enter a time in this window and hit the enter key.  For the exampl
 They will then be asked, 
 “What time do you wish to end the analysis?”
 
-28 would be a reasonable time to end.
+28 seconds would be a reasonable time to end.
 
 The programme will then perform its analysis.  This may take a moment.
 
-Eventually, you should see a graph similar to the one below:
+Eventually, matlab will produce a graph similar to the one below:
 
 ![](Running_in_the_yard.jpg)
  
@@ -101,11 +102,11 @@ The shape of the graphs can be discussed with the pupils.  They can then answer 
 
 # Extension material
 
-Go back to the file and to lines 399 to 411
-These have been commented out but can revive them by click the green %x symbol at the top of the screen.  Some lines will remain green – this is intentional.
+Go back to the file and to lines 399 to 411.
+These have been commented out but can be revived by clicking the green %x symbol at the top of the screen.  Some lines will remain green – this is intentional.
  
 
-Running the script again will give the pupils a quiver plot of the pupil’s velocity through time.  See if the pupils can work out what they’re look at and ask them to label the axes.
+Running the script again will give the pupils a quiver plot of the pupil’s velocity through time.  See if the pupils can work out what they’re looking at and ask them to label the axes.
 
 This is an excellent time to initiate a discussion on vectors.
 
@@ -116,7 +117,7 @@ Getslopeintercept.m
 
 This will open the most recent figure and ask the user to click on the graph.  The pupils will be able to draw a tangent to the displacement/ time curve.
 The programme will then generate a value for the gradient.
-Using cursors as before, the pupils will be able to verify that the gradient of the distance time graph is the velocity at that instant.  (This is useful as it highlights the positive and negative gradients).
+Using cursors as before, the pupils will be able to verify that the gradient of the distance time graph is the velocity at that instant.  (This is useful as it highlights positive and negative gradients).
  
 ![](Gradients.jpg)
  
@@ -126,7 +127,7 @@ It is also possible, by de-commenting lines 386 – 390, to view the acceleratio
 
 ## More pupils
  
-It is likely that pupils will want to compare their V/t graphs.  Welcome to the Vertigo project!
+It is likely that pupils will want to compare their V/t graphs...  Welcome to the Vertigo project!
  
 
 ![](Runners.jpg)
