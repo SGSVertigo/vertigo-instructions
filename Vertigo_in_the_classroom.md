@@ -21,8 +21,10 @@ It is advisable that teachers familiarise themselves with the process before del
 # Safety 
 Hazzard	
 * Playground surface                    
+
 Risk	
 * Pupil fall / injury   
+
 Control
 * Assess surface conditions before the lesson
 * Cancel if the ground is too slippery
