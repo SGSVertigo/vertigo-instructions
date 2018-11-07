@@ -20,7 +20,7 @@ It is advisable that teachers familiarise themselves with the process before del
 
 # Safety 
 Hazzard	
-* Playground surface
+* Playground surface                    
 Risk	
 * Pupil fall / injury
 Control
