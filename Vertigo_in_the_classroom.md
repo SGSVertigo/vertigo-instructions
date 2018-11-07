@@ -32,7 +32,7 @@ Control
 
 
 # Starter activity
-The Physics of Sprinting worksheet
+The [Physics of Sprinting](Physics_of_Sprinting.doc) worksheet
 
 # Data acquisition
 
@@ -54,7 +54,7 @@ On their return, press Vertigo’s log button again.  The solid LED light starts
 
 The following files should be emailed (or otherwise given to the pupils) before the lesson.  (Show my homework or similar may be of help here)
 quatmultiply.m,  vtg_quat2eul.m,  quatconj.m,  load_up_your_data.m,  ll2utm.m getslopeintercept.m,  wbmf.m
-These can all be found here:
+These can all be found [here](Ks3_Lesson_link.zip)
 
 
 Ask the pupils to open matlab and, using the top left icon, open the file “Load_up_your data”
