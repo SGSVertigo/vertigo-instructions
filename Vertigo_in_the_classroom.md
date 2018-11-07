@@ -18,10 +18,14 @@ This activity requires the software package matlab.  Please ensure your pupils h
 It is advisable that teachers familiarise themselves with the process before delivering the lesson content to a class.
 
 # Safety 
-Hazzard	Risk	Control
-Playground surface	Slipping whilst running	Assess surface condition before the lesson
-Cancel if the ground is too slippery
-Ask pupils to take extra care when running
+Hazzard	
+* Playground surface
+Risk	
+* Pupil fall / injury
+Control
+* Assess surface conditions before the lesson
+* Cancel if the ground is too slippery
+* Ask pupil to take extra care when running
 
 
 # Starter activity
