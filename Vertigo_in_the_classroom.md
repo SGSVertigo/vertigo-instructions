@@ -23,7 +23,7 @@ Hazzard
 * Playground surface                    
 
 Risk	
-* Pupil fall / injury   
+* Slip / fall / injury   
 
 Control
 * Assess surface conditions before the lesson
