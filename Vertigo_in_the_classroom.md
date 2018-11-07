@@ -32,7 +32,7 @@ Control
 
 
 # Starter activity
-The [PhysicsofSprinting](The_Physics_of_Sprinting.docx) worksheet
+The [Physics_of_Sprinting](The_Physics_of_Sprinting.docx) worksheet
 
 # Data acquisition
 
