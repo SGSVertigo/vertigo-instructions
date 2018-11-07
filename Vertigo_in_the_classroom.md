@@ -52,7 +52,7 @@ On their return, press Vertigo’s log button again.  The solid LED light starts
 
 # Data analysis
 
-The following files should be emailed (or otherwise given to the pupils) before the lesson.  (Show my homework or similar may be of help here)
+The following files should be emailed (or otherwise given to the pupils) before the lesson.  (Show my homework or similar may be of help here)  The files need to be used by the pupils from a directory of their own.  Else, any modifications the pupils might make would be apparent to all.
 quatmultiply.m,  vtg_quat2eul.m,  quatconj.m,  load_up_your_data.m,  ll2utm.m getslopeintercept.m,  wbmf.m
 These can all be found [here](Ks3_Lesson_link.zip)
 
@@ -96,19 +96,8 @@ On the ‘figure’ screen, under the desktop ‘tab’ is the data-cursor icon.
 Pupils can click this to add a cursor point the graph’s curve.  This will give them ‘x and y’ coordinates.  In this case, Time and Displacement or Velocity.
 Multiple cursor points can be added by holding shift and re-clicking.
 
-The shape of the graphs can be discussed with the pupils.  They can then answer the following questions which can be found on the reverse of ‘The Physics of sprinting’.
+The shape of the graphs can be discussed with the pupils.  They can then answer the questions on the reverse of ‘The Physics of sprinting’.
 
-
-
-What was X’s maximum speed?  
-At what time did this occur?
-Do you think Usain Bolt would have a similar shape graph to X’s?
-What was X’s average speed?
-Do these graphs match the graphs you drew earlier?  If there are differences, what are they?
-
-Do you think you would be able to use this data to help improve X’s performance in the 100m sprint?
-
-If so, how?
 
 # Extension material
 
@@ -132,13 +121,15 @@ Using cursors as before, the pupils will be able to verify that the gradient of 
 ![](Gradients.jpg)
  
  
- 
-Finally, it is also possible, by de-commenting lines 386 – 390, to view the acceleration against/ time.
+It is also possible, by de-commenting lines 386 – 390, to view the acceleration against/ time.
   
 
+## More pupils
+ 
+It is likely that pupils will want to compare their V/t graphs.  Welcome to the Vertigo project!
+ 
 
-
-
+![](Runners.jpg)
 
 
 
