@@ -33,7 +33,8 @@ Control
 
 # Starter activity
 The Physics of Sprinting worksheet
-Data acquisition
+
+# Data acquisition
 
 * Making sure the Vertigo unit is fully charged, take the class to a suitable outdoor area to record your data.
 * Turn the unit on and wait for the second LED to stop flashing.  This means that Vertigo has a GPS signal.  It may take a                    minute.
@@ -41,7 +42,8 @@ Data acquisition
 * Request that the pupil carries the device like an athlete carrying the
   Olympic torch.  (This is not strictly necessary but, with more wobbling around, 
   Vertigo may miss a GPS point.  This would make analysis far trickier
-  – and is not conducive to good lesson outcomes.) 
+  – and is not conducive to good lesson outcomes).
+  
   ![](Olympic_runner.jpg)
   
 *	Press the Log button (a solid LED light come on) and set the pupil off on a pre-determined route.
