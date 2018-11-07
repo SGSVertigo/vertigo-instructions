@@ -19,8 +19,7 @@ This activity requires the software package matlab.  Please ensure your pupils h
 It is advisable that teachers familiarise themselves with the process before delivering the lesson content to a class.
 
 # Safety 
-Hazzard	
-* Playground surface                    
+Hazzard	* Playground surface                    
 
 Risk	
 * Pupil fall / injury   
