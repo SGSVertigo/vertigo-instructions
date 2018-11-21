@@ -219,7 +219,7 @@ The length of the string is not too important but should be between 20cm and 1 m
 
 *Stop the device and press the log button again.
 
-If <a name = "DataS"></a>data acquisition fails, sample data is available for this activity ![here](vtg_log14.csv)
+If <a name = "DataP"></a>data acquisition fails, sample data is available for this activity ![here](vtg_log14.csv)
 
 ### Analysis
 
