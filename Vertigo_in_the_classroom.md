@@ -1,18 +1,20 @@
 # Lessons Available
 
-[Physics of Springting](#sprint)
+[# Physics of Springting](#sprint)
 
 * [Beginner](#BeginnerS)
 * [Intermediate](#IntermediateS)
 * [Advanced](#AdvancedS)
 * [Data](#DataS)
+* [Scripts](Ks3_Lesson_link.zip)
 
-[Investigating Pendulums](#Pendulums)
+[# Investigating Pendulums](#Pendulums)
 
 * [Beginner](#BeginnerP)
 * [Intermediate](#IntermediateP)
 * [Advanced](#AdvancedP)
 * [Data](#DataP)
+* [Scripts](Pendulum_scripts.zip)
 
 
 
