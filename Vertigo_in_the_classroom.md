@@ -1,6 +1,6 @@
 # Lessons Available
 
-# [Physics of Springting](#sprint)
+# [Physics of Sprinting](#sprint)
 
 * [Beginner](#BeginnerS)
 * [Intermediate](#IntermediateS)
