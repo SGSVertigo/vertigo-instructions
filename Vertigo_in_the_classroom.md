@@ -153,16 +153,9 @@ It is likely that pupils will want to compare their V/t graphs...  Welcome to th
  
 
 
-
-<pre>
-<pre>
-<pre>
-<pre>
-<pre>
-<pre>
-<pre>
-
-
+<br><br>
+<br><br>
+<br><br>
 
 
 
