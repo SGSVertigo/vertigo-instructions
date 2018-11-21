@@ -144,6 +144,7 @@ It is likely that pupils will want to compare their V/t graphs...  Welcome to th
 ### Curriculum links
 
 Key Stage 4 National Curriculum
+
 •	interpreting quantitatively graphs of distance, time, and speed 
 •	acceleration caused by forces; Newton’s First Law 
 •	 amplitude, frequency
@@ -153,12 +154,15 @@ Key Stage 4 National Curriculum
 
 Normal safe practice should be followed whilst in the laboratory.  
 
-###Introduction
+### Introduction
 
 There are many ways to analyse the motion of a pendulum.
 This activity offers three different approaches of increasing complexity.
+
 The beginner section looks at the acceleration Vertigo has experienced and offers a very simple determination of the Time period of oscillations.
+
 The intermediate activity gives scope for pupils to investigate the relationship between displacement, velocity and acceleration.
+
 The advanced analysis converts the data from a time domain into the frequency domain, introducing students to the Fourier transform and a means of presenting data they will likely not have encountered before.
 
 # Beginner
@@ -169,41 +173,64 @@ It could also be used as a means of comparing data gathered by hand and by data 
 
 *Tie Vertigo to a 1 metre length of light inextensible string (cotton thread would be best).  
 Although the GPS antenna will not be needed for this investigation, it does provide a convenient point to attach the string to, and so could still be connected to the vertigo board.
+
 *Using two small pieces of wood, or a split cork, fix the other end of the string into a clamp.  The clamp can then be connected to a retort stand as shown below.
 
-   
+
+![](apparatus.jpg)
+
+
 The length of the string is not too important but should be between 20cm and 1 metre.  Measurng the length of the string should be from the bottom of the split cork to the centre of mass of the vertigo unit.  This will involve some uncertainty.  It may be useful to have pupils estimate this uncertainty and quote it in their results.
 
 
-###Data capture
+### Data capture
 
 *Turn the vertigo device on
+
 *Wait for 30 seconds, keeping vertigo reasonably stationary
+
 *Press the log button to start logging
-*Displace vertigo to an angle of approximately 30 and release
+
+*Displace vertigo to an angle of approximately 30 degrees and release
+
 *Allow Vertigo to perform 10 full swings
+
 *Stop the device and press the log button again.
 
 
 ### Analysis
+
 *Remove the sd card from Vertigo and place it into a suitable sd card reader.
+
 *Open the programme matlab
-*The following files must be downloaded into a single folder
-*In matlab, click the open icon at the top left of the screen and navigate to the folder that has been downloaded.  Open the file Pendulum_lesson.m
+
+*The following files must be downloaded into a single folder [Pendulum_scripts](Pendulum_scripts.zip)
+
+*In matlab, click the 'open' icon located in the top left of the screen, and navigate to the folder that has been downloaded.  Open the file Pendulum_lesson.m
+
 *Click run
+
 A graph will quickly appear that resembles the graph below:
+
 ![](Pendulum_graph.jpg)
 
 In the command window, the operator will be asked
+
 “Which orientation looks best? - North (1) or East (2)”
-In the graph above the Blue line shows the clearest trend.  This depends on which way the pendulum has been orientated. There will be a choice of either North or East as the pendulum has most amplitude in these directions
-Please enter, into the command window, a ‘1’ for North or a ‘2’ for East.
+
+In the graph above the Blue line shows the clearest trend.  This depends on which way the pendulum has been orientated. There will be a choice of either North or East as the pendulum has most amplitude in these directions.
+
+Please enter, into the command window, a ‘1’ for North or a ‘2’ for East
+
 The user will then be asked 
 “when would you like to start the analysis?”
 Followed by:
+
 “when would you like to end the analysis?”
-Looking at the graph, it is clear that less noisy oscillations occur beyond 4 seconds and end at around 16 seconds.
+
+Looking at the graph, it is clear that the less noisy oscillations occur beyond 4 seconds and end at around 16 seconds.
 Enter these values when prompted.
+
 A new graph will then appear.
 
 ![](Pendulum_graph1.jpg)
@@ -213,46 +240,60 @@ A new graph will then appear.
 This graph can be used to determine the time-period of the pendulum.
 
 For very accurate readings, the cursor icon 
+
 ![](cursor.jpg)
  
-Can be used to allow pupils to find x/y values within 2 decimal places.
+will allow pupils to find x/y values within 2 decimal places.
 
 The time period for the pendulum above is 
+
  ![](Pendulum_graph4.jpg)
 
 11.85s – 7.17s = 4.68 seconds for 3 full oscillations
-Time Period = 4.68seconds/ 3
-= 1.56 seconds
-This gives a frequency of
-0.64 Hz
+
+Time Period = 4.68seconds/ 3    = 1.56 seconds
+
+Giving a frequency of 0.64 Hz
+
 This corresponds to a length of 60cm -which was exactly the length used.
 
-Intermediate
+## Intermediate
 
 In addition to investigating the Time period of the pendulum, its movement in the North and or East directions can be analysed.
+
 The following script can be used to produce a graph of displacement, Velocity and acceleration.  
+
 The script contains similar prompts as in the beginner exercise.
+
+As before, in matlab open the file Pendulum_lesson2
+
 The final graph produced looks as follows
+
+
  ![](Pendulum_graph5.jpg)
 
 Clearly the point of interest in this example is to investigate the relationship between amplitude and Time Period.
 Below is a graph from a second data set taken with the same pendulum but with a much-reduced amplitude.  The isochronous nature of pendulums can be a conceptual hurdle and some pupils find this difficult to overcome – it is very visible here.
  
 ![](Pendulum_graph6.jpg)
-Advanced
+
+## Advanced
 
 The final analysis is suitable for G&T students in years 11 or above.
 It involves understanding the moving of data from the time domain into the frequency domain.
 
 The analysis should be used as an extension to the intermediate exercise and not as a stand-alone activity.
 
-The script required is here.  Data should already have been loaded into Matlab with the previous scripts already complete.
-(A cautionary note – this analysis gives a far more accurate output if the data is recorded over a much longer time frame.  Leaving the pendulum to oscillate for over a minute would be ideal)
+The script required is Pendulum_lesson3.  Data should already have been loaded into Matlab with the previous scripts already complete.
+
+(Note – this analysis gives a more accurate output if the data is recorded over a longer time frame.  Leaving the pendulum to oscillate for over a minute would be ideal)
 
  
 Notice, here, the peak amplitude occurs at a frequency of approximately 0.64 Hz which was the calculated frequency from earlier examples.
 
+
 ![](Pendulum_graph7.jpg)
+
 
 It is also interesting to note that whilst the pendulum will oscillate in the expected plane, it will also oscillate as a torsional pendulum.  These frequencies often show themselves in the Fourier Transform.  It may be an area worth investigating.
 
