@@ -205,10 +205,10 @@ It could also be used as a means of comparing data gathered by hand and by data 
 
 ### Set-up
 
-*Tie Vertigo to a 1 metre length of light inextensible string (cotton thread would be best).  
+* Tie Vertigo to a 1 metre length of light inextensible string (cotton thread would be best).  
 Although the GPS antenna will not be needed for this investigation, it does provide a convenient point to attach the string to, and so could still be connected to the vertigo board.
 
-*Using two small pieces of wood, or a split cork, fix the other end of the string into a clamp.  The clamp can then be connected to a retort stand as shown below.
+* Using two small pieces of wood, or a split cork, fix the other end of the string into a clamp.  The clamp can then be connected to a retort stand as shown below.
 
 
 ![](apparatus.jpg)
@@ -219,31 +219,31 @@ The length of the string is not too important but should be between 20cm and 1 m
 
 ### Data capture
 
-*Turn the vertigo device on
+* Turn the vertigo device on
 
-*Wait for 30 seconds, keeping vertigo reasonably stationary
+* Wait for 30 seconds, keeping vertigo reasonably stationary
 
-*Press the log button to start logging
+* Press the log button to start logging
 
-*Displace vertigo to an angle of approximately 30 degrees and release
+* Displace vertigo to an angle of approximately 30 degrees and release
 
-*Allow Vertigo to perform 10 full swings
+* Allow Vertigo to perform 10 full swings
 
-*Stop the device and press the log button again.
+* Stop the device and press the log button again.
 
 If <a name = "DataP"></a>data acquisition fails, sample data is available for this activity [here](Pendulum.csv)
 
 ### Analysis
 
-*Remove the sd card from Vertigo and place it into a suitable sd card reader.
+* Remove the sd card from Vertigo and place it into a suitable sd card reader.
 
-*Open the programme matlab
+* Open the programme matlab
 
-*The following files must be downloaded into a single folder [Pendulum_scripts](Pendulum_scripts.zip)
+* The following files must be downloaded into a single folder [Pendulum_scripts](Pendulum_scripts.zip)
 
-*In matlab, click the 'open' icon located in the top left of the screen, and navigate to the folder that has been downloaded.  Open the file Pendulum_lesson.m
+* In matlab, click the 'open' icon located in the top left of the screen, and navigate to the folder that has been downloaded.  Open the file Pendulum_lesson.m
 
-*Click run
+* Click run
 
 A graph will quickly appear that resembles the graph below:
 
