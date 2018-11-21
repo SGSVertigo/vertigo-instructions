@@ -149,8 +149,22 @@ It is also possible, by de-commenting lines 386 – 390, to view the acceleratio
 
 ## More pupils
  
-It is likely that pupils will want to compare their V/t graphs...  Welcome to the Vertigo project!
+It is likely that pupils will want to compare their V/t graphs...  Welcome to the Vertigo project.
  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
