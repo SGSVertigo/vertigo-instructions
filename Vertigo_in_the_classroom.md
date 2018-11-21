@@ -177,9 +177,11 @@ It is likely that pupils will want to compare their V/t graphs...  Welcome to th
 
 Key Stage 4 National Curriculum
 
-•	interpreting quantitatively graphs of distance, time, and speed 
-•	acceleration caused by forces; Newton’s First Law 
-•	amplitude, frequency
+* interpreting quantitatively graphs of distance, time, and speed 
+
+*	acceleration caused by forces; Newton’s First Law 
+
+*	amplitude, frequency
 
 
 ### Safety
