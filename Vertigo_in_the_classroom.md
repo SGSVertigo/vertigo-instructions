@@ -5,12 +5,14 @@
 * [Beginner](#BeginnerS)
 * [Intermediate](#IntermediateS)
 * [Advanced](#AdvancedS)
+* [Data](#DataS)
 
 [Investigating Pendulums](#Pendulums)
 
 * [Beginner](#BeginnerP)
 * [Intermediate](#IntermediateP)
 * [Advanced](#AdvancedP)
+* [Data](#DataP)
 
 
 
@@ -61,7 +63,8 @@ The [Physics_of_Sprinting](The_Physics_of_Sprinting.docx) worksheet
 
 On their return, press Vertigo’s log button again.  The solid LED light starts to flash.  When it stops flashing, Vertigo may be turned off; the data is ready to be analysed.
 
-If data acquisition fails, sample data is available for this activity ![here](vtg_log4.csv)
+
+If <a name = "DataS"></a>data acquisition fails, sample data is available for this activity ![here](vtg_log4.csv)
 
 # Data analysis
 
@@ -216,7 +219,7 @@ The length of the string is not too important but should be between 20cm and 1 m
 
 *Stop the device and press the log button again.
 
-If data acquisition fails, sample data is available for this activity ![here](vtg_log4.csv)
+If <a name = "DataS"></a>data acquisition fails, sample data is available for this activity ![here](vtg_log14.csv)
 
 ### Analysis
 
