@@ -303,15 +303,15 @@ The following script can be used to produce a graph of displacement, Velocity an
 
 The script contains similar prompts as in the beginner exercise.
 
-As before, in matlab open the file Pendulum_lesson2
+As before, in matlab, open the file Pendulum_lesson2
 
 The final graph produced looks as follows
 
 
  ![](Pendulum_graph5.jpg)
 
-Clearly the point of interest in this example is to investigate the relationship between amplitude and Time Period.
-Below is a graph from a second data set taken with the same pendulum but with a much-reduced amplitude.  The isochronous nature of pendulums can be a conceptual hurdle and some pupils find this difficult to overcome – it is very visible here.
+One point of interest, in this example, is to investigate the relationship between amplitude and time-period.
+Below is a graph from a second data set taken with the same pendulum but with a much-reduced amplitude.  The isochronous nature of pendulums can be a conceptual hurdle, and some pupils find this difficult to overcome – it is very visible here.
  
 ![](Pendulum_graph6.jpg)
 
