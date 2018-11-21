@@ -1,3 +1,10 @@
+* [Physics of Springtin](#sprint)
+
+
+* [Investigating Pendulums](#Pendulums)
+
+## <a name = "Sprint"></a>Physics of Sprinting
+
 
 
 # Investigating the displacement / time graph for a sprinting pupil.
@@ -137,6 +144,7 @@ It is likely that pupils will want to compare their V/t graphs...  Welcome to th
 
 
 
+## <a name = "Pendulums"></a>Pendulums
 
 
 # Investigating the periodic motion of a pendulum
