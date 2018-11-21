@@ -184,7 +184,7 @@ The intermediate activity gives scope for pupils to investigate the relationship
 
 The advanced analysis converts the data from a time domain into the frequency domain, introducing students to the Fourier transform and a means of presenting data they will likely not have encountered before.
 
-# <a name = "BeginnerS"></a>Beginner
+# <a name = "BeginnerP"></a>Beginner
 
 This analysis could fit into a wider study, perhaps investigating the relationship between pendulum length and Time period.
 It could also be used as a means of comparing data gathered by hand and by data loggers.  The latter, ought to, in this case, yield a more accurate answer with smaller uncertainties.
@@ -277,7 +277,7 @@ Giving a frequency of 0.64 Hz
 
 This corresponds to a length of 60cm -which was exactly the length used.
 
-# <a name = "IntermediateS"></a>Intermediate
+# <a name = "IntermediateP"></a>Intermediate
 
 
 In addition to investigating the Time period of the pendulum, its movement in the North and or East directions can be analysed.
@@ -299,7 +299,7 @@ Below is a graph from a second data set taken with the same pendulum but with a 
 ![](Pendulum_graph6.jpg)
 
 
-# <a name = "AdvancedS"></a>Advanced
+# <a name = "AdvancedP"></a>Advanced
 
 
 The final analysis is suitable for G&T students in years 11 or above.
