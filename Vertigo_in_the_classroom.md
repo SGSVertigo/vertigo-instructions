@@ -52,6 +52,8 @@ Control
 # Starter activity
 The [Physics_of_Sprinting](The_Physics_of_Sprinting.docx) worksheet
 
+## <a name = "BeginnerS"></a>Beginner
+
 # Data acquisition
 
 * Making sure the Vertigo unit is fully charged, take the class to a suitable outdoor area to record your data.
@@ -71,10 +73,11 @@ On their return, press Vertigo’s log button again.  The solid LED light starts
 # Data analysis
 
 The following files should be emailed (or otherwise given to the pupils) before the lesson.  (Show my homework or similar may be of help here)  The files need to be used by the pupils from a directory of their own.  Else, any modifications the pupils might make would be apparent to all.
-quatmultiply.m,  vtg_quat2eul.m,  quatconj.m,  load_up_your_data.m,  ll2utm.m getslopeintercept.m,  wbmf.m
+
 
 These can all be found [here](Ks3_Lesson_link.zip)
 
+Ask the pupils to download them to a non-shared drive.
 
 Ask the pupils to open matlab and, using the top left icon, open the file “Load_up_your data”
 In the meantime, the csv file created will need to be accessed by the pupils.  This should be added to a public drive or emailed to the pupils.
@@ -118,7 +121,7 @@ Multiple cursor points can be added by holding shift and re-clicking.
 The shape of the graphs can be discussed with the pupils.  They can then answer the questions on the reverse of ‘The Physics of sprinting’.
 
 
-# Extension material
+## <a name = "IntermediateS"></a>Intermediate
 
 Go back to the file and to lines 399 to 411.
 These have been commented out but can be revived by clicking the green %x symbol at the top of the screen.  Some lines will remain green – this is intentional.
@@ -128,7 +131,10 @@ Running the script again will give the pupils a quiver plot of the pupil’s vel
 
 This is an excellent time to initiate a discussion on vectors.
 
-## Gradients
+## <a name = "AdvancedS"></a>Advanced
+
+# Gradients
+
 Closing the most recent quiver plot students should open the file:
  
 Getslopeintercept.m
@@ -148,7 +154,6 @@ It is also possible, by de-commenting lines 386 – 390, to view the acceleratio
 It is likely that pupils will want to compare their V/t graphs...  Welcome to the Vertigo project!
  
 
-![](Runners.jpg)
 
 
 
