@@ -37,16 +37,7 @@ This activity requires the software package matlab.  Please ensure your pupils h
 It is advisable that teachers familiarise themselves with the process before delivering the lesson content to a class.
 
 # Safety 
-Hazzard	
-* Playground surface                    
-
-Risk	
-* Slip / fall / injury   
-
-Control
-* Assess surface conditions before the lesson
-* Cancel if the ground is too slippery
-* Ask pupil to take extra care when running
+appropriate risk assessment should be made in compliance with departmental requirements
 
 
 # Starter activity
@@ -69,6 +60,8 @@ The [Physics_of_Sprinting](The_Physics_of_Sprinting.docx) worksheet
 *	Press the Log button (a solid LED light come on) and set the pupil off on a pre-determined route.
 
 On their return, press Vertigo’s log button again.  The solid LED light starts to flash.  When it stops flashing, Vertigo may be turned off; the data is ready to be analysed.
+
+If data acquisition fails, sample data is available for this activity ![here](Olympic_runner.jpg)
 
 # Data analysis
 
@@ -171,12 +164,13 @@ Key Stage 4 National Curriculum
 
 •	interpreting quantitatively graphs of distance, time, and speed 
 •	acceleration caused by forces; Newton’s First Law 
-•	 amplitude, frequency
+•	amplitude, frequency
 
 
 ### Safety
 
-Normal safe practice should be followed whilst in the laboratory.  
+appropriate risk assessment should be made in compliance with departmental requirements
+ 
 
 ### Introduction
 
@@ -222,6 +216,7 @@ The length of the string is not too important but should be between 20cm and 1 m
 
 *Stop the device and press the log button again.
 
+If data acquisition fails, sample data is available for this activity ![here](Olympic_runner.jpg)
 
 ### Analysis
 
