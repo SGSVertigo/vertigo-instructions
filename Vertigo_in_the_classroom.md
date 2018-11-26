@@ -25,7 +25,7 @@
 * [Intermediate](#IntermediateC)
 * [Advanced](#AdvancedC)
 * [Data](#DataC)
-* [Scripts](Circular_link_files.zip)
+* [Scripts](Circle_link_files.zip)
 
 
 
@@ -396,7 +396,7 @@ Stop Vertigo’s logging.
 
 * Open the programme matlab
 
-* The following files must be downloaded into a single folder [Cirular_Link_files](Circle_Link_files.zip)
+* The following files must be downloaded into a single folder [Circle_link_files](Circle_link_files.zip)
 
 * In matlab, click the ‘open’ icon located in the top left of the screen, and navigate to the folder that has been downloaded
 
