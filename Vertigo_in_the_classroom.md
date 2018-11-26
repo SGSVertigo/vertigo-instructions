@@ -244,7 +244,7 @@ The length of the string is not too important but should be between 20cm and 1 m
 
 * Stop the device and press the log button again.
 
-If <a name = "DataP"></a>data acquisition fails, sample data is available for this activity [here](Pendulum_data.csv)
+If <a name = "DataP"></a>data acquisition fails, sample data is available for this activity <a name = "DataP"></a>[here](Pendulum_data.csv)
 
 ### Analysis
 
@@ -449,7 +449,7 @@ Ideally, this would point inwards.  However, if the speed of the circular motion
 
 If a pure, textbook style centripetal acceleration is required, then Vertigo may be fitted to a fix speed turntable.  An old record player works well.
 
-If this is not available, data can be found [here](Circle_data.zip)
+If this is not available, data can be found <a name = "DataP"></a>[here](Circle_data.zip)
 
 ![](Circle6.jpg)
 
