@@ -465,8 +465,13 @@ This can be found be using the dot product of the two quiver vectors used in the
 
 It would be expected that the angle between the velocity and acceleration would always be 90 degrees.
 As can be seen, this analysis reveals the angle to oscillate between 65 and 115 degrees.
+
+![](Circle8.jpg)
+
+
 The average though is a little over 89.5 degrees – textbook.  Why there is such variation could be an interesting area for investigation.
 
+![](Circle9.jpg)
 
 
 
