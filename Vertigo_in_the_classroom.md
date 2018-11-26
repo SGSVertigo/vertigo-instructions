@@ -19,7 +19,7 @@
 * [Scripts](Pendulum_scripts.zip)
 
 
-### [Circular Motion](#Circular Motion)
+### [Circular Motion](#Circular)
 
 * [Beginner](#BeginnerC)
 * [Intermediate](#IntermediateC)
