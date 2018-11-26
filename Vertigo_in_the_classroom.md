@@ -1,3 +1,5 @@
+[Home](index.md)
+
 # Lessons Available
 
 ### [Physics of Sprinting](#sprint)
@@ -15,6 +17,15 @@
 * [Advanced](#AdvancedP)
 * [Data](#DataP)
 * [Scripts](Pendulum_scripts.zip)
+
+
+### [Circular Motion](#Circular Motion)
+
+* [Beginner](#BeginnerC)
+* [Intermediate](#IntermediateC)
+* [Advanced](#AdvancedC)
+* [Data](#DataC)
+* [Scripts](Circular_scripts.zip)
 
 
 
@@ -355,8 +366,8 @@ It is also interesting to note that whilst the pendulum will oscillate in the ex
 <br><br>
 <br><br>
 
+# <a name = "Circular"></a>Circular Motion
 
-# Circular motion.
 
 The aim of this lesson is to support pupil understanding of circular motion and in particular centripetal force.
 Data should be taken outside, although there are options for lab-based experiments. Best outcomes are achieved when a constant radius, uniform speed circle is followed.  This may be achieved by a pupil running, a pupil on a bicycle or other suitable vehicle.
@@ -367,8 +378,8 @@ The intermediate section looks at the same data but introduces the concept of ac
 
 The advanced section investigates the angle between the acceleration and the Velocity.
 
+## <a name = "BeginnerC"></a>Beginner
 
-## Beginnner
 
 ## Set-up
 
@@ -423,8 +434,7 @@ The latter shows the velocity of Vertigo at various positions as it travels in a
 
 The other graphs show how the speed varies.  In this example, the data was taken on a slight slope and so the speed varies accordingly.  It should be possible to achieve a fairly constant speed and this could be an activity for the pupils.
 
-
-## Intermediate
+## <a name = "IntermediateC"></a>Intermediate
 
 This activity looks to investigate the centripetal acceleration of an object travelling in a circle.
 
@@ -446,8 +456,9 @@ If this is not available, data can be found here.
 
 ![](Circle7.jpg)
 
+## <a name = "AdvancedC"></a>Advanced
 
-Advanced
+
 A more in-depth analysis could investigate the angle between the Velocity and Acceleration Vertigo experiences as it travels in a circle.
 This can be found be using the dot product of the two quiver vectors used in the previous lessons.
 
