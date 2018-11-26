@@ -25,7 +25,7 @@
 * [Intermediate](#IntermediateC)
 * [Advanced](#AdvancedC)
 * [Data](#DataC)
-* [Scripts](Circular_scripts.zip)
+* [Scripts](Circular_link_files.zip)
 
 
 
@@ -396,7 +396,7 @@ Stop Vertigo’s logging.
 
 * Open the programme matlab
 
-* The following files must be downloaded into a single folder [Cirular_scripts](Pendulum_scripts.zip)
+* The following files must be downloaded into a single folder [Cirular_Link_files](Circle_Link_files.zip)
 
 * In matlab, click the ‘open’ icon located in the top left of the screen, and navigate to the folder that has been downloaded
 
@@ -449,7 +449,7 @@ Ideally, this would point inwards.  However, if the speed of the circular motion
 
 If a pure, textbook style centripetal acceleration is required, then Vertigo may be fitted to a fix speed turntable.  An old record player works well.
 
-If this is not available, data can be found here.
+If this is not available, data can be found [here](Circle_data.zip)
 
 ![](Circle6.jpg)
 
