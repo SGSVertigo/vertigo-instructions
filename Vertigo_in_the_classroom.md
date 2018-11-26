@@ -427,7 +427,7 @@ Choosing between 8 and 16 seconds, the following graphs will appear:
 
 
 
-![](Circle3.jpg)
+![](Circle4.jpg)
 
 The latter shows the velocity of Vertigo at various positions as it travels in a circle.  The critical point here is that the velocity is at a tangent to the direction.
 
@@ -439,7 +439,6 @@ The other graphs show how the speed varies.  In this example, the data was taken
 This activity looks to investigate the centripetal acceleration of an object travelling in a circle.
 
 The first method is identical to the Beginner exercise with the addition of a quiver plot which shows acceleration at positions around the circle Vertigo travelled in.
-![](Circle4.jpg)
 
 
 ![](Circle5.jpg)
@@ -451,7 +450,9 @@ Ideally, this would point inwards.  However, if the speed of the circular motion
 If a pure, textbook style centripetal acceleration is required, then Vertigo may be fitted to a fix speed turntable.  An old record player works well.
 
 If this is not available, data can be found here.
+
 ![](Circle6.jpg)
+
 
 
 ![](Circle7.jpg)
