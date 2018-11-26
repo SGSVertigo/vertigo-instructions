@@ -449,7 +449,8 @@ Ideally, this would point inwards.  However, if the speed of the circular motion
 
 If a pure, textbook style centripetal acceleration is required, then Vertigo may be fitted to a fix speed turntable.  An old record player works well.
 
-If this is not available, data can be found <a name = "DataP"></a>[here](Circle_data.zip)
+If this is not available, data can be found <a name = "DataC"></a>[here](Circle_data.zip)
+
 
 ![](Circle6.jpg)
 
