@@ -310,7 +310,7 @@ This corresponds to a length of 60cm -which was exactly the length used.
 
 In addition to investigating the Time period of the pendulum, its movement in the North and or East directions can be analysed.
 
-The following script can be used to produce a graph of displacement, Velocity and acceleration.  
+The Pendulum_lesson2 script can be used to produce a graph of displacement, Velocity and acceleration.  
 
 The script contains similar prompts as in the beginner exercise.
 
