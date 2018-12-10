@@ -524,7 +524,7 @@ The following scripts need to be downloaded into the same folder
 After a short time, a graph will appear.
 #NB – The data used here is not from a trampoline but the scripts have been written for this purpose.
 
-![](tramp1.jpg)
+![](tramp0.jpg)
 
 
 The operator will then be asked
@@ -585,9 +585,9 @@ Similar to concepts in relativity, the need to stipulate the frame used is impor
 Linear speed is most often measured with respect to longitude and latitude coordinates on the Earth’s surface.  But this might not be as valuable to a plane or a boat, where speed in relation to the air or water is more important.
 The same is true when measuring the rotational speeds for a trampolinist.
  
- ![](tramp5.jpg)                    |  ![](tramp6.jpg)
+ ![](tramp5.jpg)                                 |  ![](tramp6.jpg)
 :-----------------------------------------------:|:----------------------------------:
- A 'NED' world frame.              | How a Board frame may be assigned
+ A 'NED' world frame.                            | How a Board frame may be assigned
 
 The diagram on the left shows a ‘world frame’.  That is, one that has axes fixed to the Earth.  Convention has X,Y and -Z following the directions of North, East and Down (NED).
 
@@ -605,7 +605,7 @@ The following graphs help to understand the problems involved.
 
 
 
-#Pitch Rotations
+# Roll Rotations
 
 
 ![](tramp7.jpg)        
@@ -619,7 +619,7 @@ The following graphs help to understand the problems involved.
 
 
 
-#Roll Rotations
+# Pitch Rotations
 
 ![](tramp8.jpg)  
 
