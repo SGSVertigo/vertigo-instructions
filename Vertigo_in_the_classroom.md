@@ -29,7 +29,18 @@
 
 
 
-## <a name = "Sprint"></a>Physics of Sprinting
+### [Trampoline Jumping](#jump)
+
+* [Beginner](#BeginnerJ)
+* [Intermediate](#IntermediateJ)
+* [Advanced](#AdvancedJ)
+* [Data](#DataJ)
+* [Scripts](tramp_link_.zip)
+
+
+
+
+## <a name = "sprint"></a>Physics of Sprinting
 
 
 
@@ -476,13 +487,24 @@ The average though is a little over 89.5 degrees – textbook.  Why there is suc
 
 
 
+
+
+
+
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+## <a name = "jump"></a>Trampoline Jumping
+
+
+
 ![Alt Text](https://media.giphy.com/media/bTIgsd4dlCalDfxZsg/giphy.gif)
 
+## <a name = "BeginnerJ"></a>Beginner
 
-
-
-
-## Beginner 
 
 Measuring the forces acting on a trampolinist.
 
@@ -531,7 +553,8 @@ Once this data has been entered, graphs such as the one below will be produced.
 
 An interesting investigation could be to find the relationship between a pupil’s mass and the maximum Force experienced on the trampoline.
 
-## Intermediate
+## <a name = "IntermediateJ"></a>Intermediate
+
 It is also possible to investigate the height and velocity of the trampolinist.  This is similar to previous investigation.
 The gradient of the distance/ time graph out to be directly proportional to the velocity.
 
@@ -551,8 +574,10 @@ Change the limits in the square brackets to ones more applicable to your investi
 ![](tramp3.jpg)
 
 It is possible, though reasonably involved, to investigate the energy stored in the trampoline.  
- 
-## Expert
+
+
+## <a name = "ExpertJ"></a>Expert
+
 
 Measuring rotation
 When measuring rotational speeds, the frame of reference is all important.
@@ -560,7 +585,7 @@ Similar to concepts in relativity, the need to stipulate the frame used is impor
 Linear speed is most often measured with respect to longitude and latitude coordinates on the Earth’s surface.  But this might not be as valuable to a plane or a boat, where speed in relation to the air or water is more important.
 The same is true when measuring the rotational speeds for a trampolinist.
  
- ![](Tramp5.jpg)                    |  ![](tramp6.jpg)
+ ![](tramp5.jpg)                    |  ![](tramp6.jpg)
 :-----------------------------------------------:|:----------------------------------:
  A 'NED' world frame.              | How a Board frame may be assigned
 
@@ -580,12 +605,21 @@ The following graphs help to understand the problems involved.
 
 
 
+#Pitch Rotations
+
+
 ![](tramp7.jpg)        
 
 
 
 
 
+
+
+
+
+
+#Roll Rotations
 
 ![](tramp8.jpg)  
 
