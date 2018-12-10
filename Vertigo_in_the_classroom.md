@@ -476,6 +476,6 @@ The average though is a little over 89.5 degrees – textbook.  Why there is suc
 
 
 
-
+<iframe src="https://giphy.com/embed/wHfbL6G4xGqhKXV6eV" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/wHfbL6G4xGqhKXV6eV">via GIPHY</a></p>
 
 
