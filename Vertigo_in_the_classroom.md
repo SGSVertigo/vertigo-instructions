@@ -577,7 +577,7 @@ Change the limits, in the square brackets, to ones more applicable to your inves
 It is possible, though reasonably involved, to investigate the energy stored in the trampoline.  
 
 
-## <a name = "ExpertJ"></a>Expert
+## <a name = "AdvancedJ"></a>Advanced
 
 
 # Measuring rotation
