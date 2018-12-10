@@ -481,3 +481,109 @@ The average though is a little over 89.5 degrees – textbook.  Why there is suc
 
 
 
+
+## Beginner 
+
+Measuring the forces acting on a trampolinist.
+
+For this experiment it will be assumed that the trampolinist is only moving in the vertical direction.  
+For consistency, and for ease of understanding, the trampolinists weight has been added on to the Force charts. 
+
+Fix Vertigo onto the waist of the trampolinist – it is important that Vertigo is not landed on whilst jumping
+* Turn vertigo on and stay still for 30 seconds
+* Press the log button
+* Begin jumping
+* Once finished, press the log button again to end the data capture.
+* Wait until Vertigo’s LED lights stop flashing 
+
+The following scripts need to be downloaded into the same folder
+* Open matlab and run the script ‘Trampoline_lesson_1]
+
+After a short time, a graph will appear.
+#NB – The data used here is not from a trampoline but the scripts have been written for this purpose.
+
+![](tramp1.jpg)
+
+
+The operator will then be asked
+* What time do you wish to start analysis from?  In the command window normally found at the bottom of the matlab screen
+
+Looking at the graph, input a suitable start time, in seconds, into the command window
+
+And then:
+
+* What time do you wish to end the analysis? 
+
+Chose an end time and enter this in seconds into the command window.
+
+And finally
+
+* What is the mass of the trampolinist? 
+
+This is simply required to calculate the force acting on the trampolinist using F=ma
+Input the trampolinist’s mass in Kilograms.
+
+Once this data has been entered, graphs such as the one below will be produced.
+
+![](tramp1.jpg)
+
+
+
+An interesting investigation could be to find the relationship between a pupil’s mass and the maximum Force experienced on the trampoline.
+
+## Intermediate
+It is also possible to investigate the height and velocity of the trampolinist.  This is similar to previous investigation.
+The gradient of the distance/ time graph out to be directly proportional to the velocity.
+
+* Load the script Tramp_lesson2 and follow the instructions  as before.
+
+
+![](tramp2.jpg)
+
+The final graph looks at the force that the trampoline exerts on the trampolinist as it is stretched.  It is a difficult graph to analyse if multiple jumps are viewed simultaneously.  
+
+* Adjusting the ‘force window’ required can be achieved by modifying line 137 of the script
+ 
+ ylim([150 300]);
+
+Change the limits in the square brackets to ones more applicable to your investigation.
+
+![](tramp3.jpg)
+
+It is possible, though reasonably involved, to investigate the energy stored in the trampoline.  
+ 
+## Expert
+
+Measuring rotation
+When measuring rotational speeds, the frame of reference is all important.
+Similar to concepts in relativity, the need to stipulate the frame used is important.  
+Linear speed is most often measured with respect to longitude and latitude coordinates on the Earth’s surface.  But this might not be as valuable to a plane or a boat, where speed in relation to the air or water is more important.
+The same is true when measuring the rotational speeds for a trampolinist.
+ 
+ 
+
+The diagram on the left shows a ‘world frame’.  That is, one that has axes fixed to the Earth.  Convention has X,Y and -Z following the directions of North, East and Down.
+The diagram on the right shows rotational axes that rotate with the object.  In this particular case, Vertigo will be fixed onto a rotating trampolinist.
+For this investigation, the rotating frame will be most useful.  And therefore, for the first, and possible only time, the orientation with which Vertigo is attached to the trampolinist will be important.  Especially, if results between trampolinists are to be compared.
+
+Load the script trampoline_lesson3
+Acquire data as before and follow instructions in the command window.
+Several graphs will appear, all with labelled axes to ease understanding.
+  
+Visualising rotations in 3-dimentions can be challenging, and it will take some time to be confident in explaining what the graphs represent.
+The following graphs help to understand the problems involved.
+
+
+
+
+Rotations can be seen in both the world frame and the trampolinists frame of reference.  What appears to have happened in this example is that the board’s X- axis was rotating about an imaginary axis running East to West.
+The other oscillations are presumably processions.
+The oscillation direction can also be seen from the gyroscope rate.  In the graph below, it is clear the most rotations is occurring around the x-axis.
+
+It should be clear that, if rotations between athletes is to be compared Vertigo will need to be affixed in a consistent manner.
+Or, the trampoline jumper would need to face the same way each time he/she jumped.
+NB – the data used here was obtained by throwing a Vertigo and catching it.  The first thrown was launched with little spin, the second with a higher revolution rate.  These rates would be much higher than a trampolinist might achieve.
+
+Comparing the results found measured with Vertigo against a video recording of a trampolinist would be a very interesting investigation.
+Since angular momentum is always conserved, the rate of rotation can be increased as the trampolinist varies their moment of inertia.  (This is not the case with the ‘board thrown in the air’ data presented here).
+
