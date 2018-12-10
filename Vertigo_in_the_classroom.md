@@ -595,7 +595,7 @@ The same is true when measuring the rotational speeds for a trampolinist.
  
  ![](tramp5.jpg)                                 |  ![](tramp6.jpg)
 :-----------------------------------------------:|:----------------------------------:
- A 'NED' world frame.                            | How a Board frame may be assigned
+ A 'NED' world frame                             | How a Board frame may be assigned
 
 The diagram on the left shows a ‘world frame’.  That is, one that has axes fixed to the Earth.  Convention has X,Y and -Z following the directions of North, East and Down (NED).
 
