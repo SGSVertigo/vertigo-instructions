@@ -509,20 +509,21 @@ The average though is a little over 89.5 degrees – textbook.  Why there is suc
 Measuring the forces acting on a trampolinist.
 
 For this experiment it will be assumed that the trampolinist is only moving in the vertical direction.  
-For consistency, and for ease of understanding, the trampolinists weight has been added on to the Force charts. 
+For consistency, and for ease of understanding, the trampolinist's weight has been added on to the Force charts. 
 
 Fix Vertigo onto the waist of the trampolinist – it is important that Vertigo is not landed on whilst jumping
-* Turn vertigo on and stay still for 30 seconds
+* Turn vertigo on and keep it still for 30 seconds
 * Press the log button
 * Begin jumping
 * Once finished, press the log button again to end the data capture.
 * Wait until Vertigo’s LED lights stop flashing 
 
-The following scripts need to be downloaded into the same folder
-* Open matlab and run the script ‘Trampoline_lesson_1]
+The following [Scripts](tramp_scripts.zip) need to be downloaded into the same folder
+* Open matlab and run the script Trampoline_lesson_1
 
 After a short time, a graph will appear.
-#NB – The data used here is not from a trampoline but the scripts have been written for this purpose.
+# NB 
+he data used here is not from a trampoline but the scripts have been written for this purpose.
 
 ![](tramp0.jpg)
 
@@ -565,11 +566,11 @@ The gradient of the distance/ time graph out to be directly proportional to the 
 
 The final graph looks at the force that the trampoline exerts on the trampolinist as it is stretched.  It is a difficult graph to analyse if multiple jumps are viewed simultaneously.  
 
-* Adjusting the ‘force window’ required can be achieved by modifying line 137 of the script
+* Adjusting the ‘force window’ required can be achieved by modifying line 137 of the matlab script.
  
  ylim([150 300]);
 
-Change the limits in the square brackets to ones more applicable to your investigation.
+Change the limits, in the square brackets, to ones more applicable to your investigation.
 
 ![](tramp3.jpg)
 
@@ -579,7 +580,8 @@ It is possible, though reasonably involved, to investigate the energy stored in 
 ## <a name = "ExpertJ"></a>Expert
 
 
-Measuring rotation
+# Measuring rotation
+
 When measuring rotational speeds, the frame of reference is all important.
 Similar to concepts in relativity, the need to stipulate the frame used is important.  
 Linear speed is most often measured with respect to longitude and latitude coordinates on the Earth’s surface.  But this might not be as valuable to a plane or a boat, where speed in relation to the air or water is more important.
@@ -638,7 +640,8 @@ The oscillation direction can also be seen from the gyroscope rate.  In the grap
 It should be clear that, if rotations between athletes is to be compared, Vertigo will need to be affixed in a consistent manner.
 Or, the trampoline jumper would need to face the same way each time he/she jumped.
 
-NB – the data used here was obtained by throwing a Vertigo and catching it.  The first throw was launched with little spin, the second with a higher revolution rate.  These rates would be much higher than a trampolinist might achieve.
+# NB  
+the data used here was obtained by throwing a Vertigo and catching it.  The first throw was launched with little spin, the second with a higher revolution rate.  These rates would be much higher than a trampolinist might achieve.
 
 Comparing the results, measured with Vertigo, against a video recording of a trampolinist, would be a very interesting exercise.
 
