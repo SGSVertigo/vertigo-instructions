@@ -497,7 +497,8 @@ The average though is a little over 89.5 degrees – textbook.  Why there is suc
 <br><br>
 <br><br>
 <br><br>
-## <a name = "jump"></a>Trampoline Jumping
+
+### <a name = "jump"></a>Trampoline Jumping
 
 
 
@@ -506,7 +507,7 @@ The average though is a little over 89.5 degrees – textbook.  Why there is suc
 ## <a name = "BeginnerJ"></a>Beginner
 
 
-Measuring the forces acting on a trampolinist.
+# Measuring the forces acting on a trampolinist.
 
 For this experiment it will be assumed that the trampolinist is only moving in the vertical direction.  
 For consistency, and for ease of understanding, the trampolinist's weight has been added on to the Force charts. 
@@ -522,7 +523,7 @@ The following [Scripts](tramp_scripts.zip) need to be downloaded into the same f
 * Open matlab and run the script Trampoline_lesson_1
 
 After a short time, a graph will appear.
-# NB 
+## NB 
 he data used here is not from a trampoline but the scripts have been written for this purpose.
 
 ![](tramp0.jpg)
@@ -555,6 +556,8 @@ Once this data has been entered, graphs such as the one below will be produced.
 An interesting investigation could be to find the relationship between a pupil’s mass and the maximum Force experienced on the trampoline.
 
 ## <a name = "IntermediateJ"></a>Intermediate
+
+Force, displacement and velocity
 
 It is also possible to investigate the height and velocity of the trampolinist.  This is similar to previous investigation.
 The gradient of the distance/ time graph out to be directly proportional to the velocity.
