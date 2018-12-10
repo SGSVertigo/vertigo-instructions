@@ -560,13 +560,18 @@ Similar to concepts in relativity, the need to stipulate the frame used is impor
 Linear speed is most often measured with respect to longitude and latitude coordinates on the Earth’s surface.  But this might not be as valuable to a plane or a boat, where speed in relation to the air or water is more important.
 The same is true when measuring the rotational speeds for a trampolinist.
  
- 
+ ![](Tramp5.jpg)                    |  ![](tramp6.jpg)
+:-----------------------------------------------:|:----------------------------------:
+ A 'NED' world frame.              | How a Board frame may be assigned
 
-The diagram on the left shows a ‘world frame’.  That is, one that has axes fixed to the Earth.  Convention has X,Y and -Z following the directions of North, East and Down.
+The diagram on the left shows a ‘world frame’.  That is, one that has axes fixed to the Earth.  Convention has X,Y and -Z following the directions of North, East and Down (NED).
+
 The diagram on the right shows rotational axes that rotate with the object.  In this particular case, Vertigo will be fixed onto a rotating trampolinist.
+
 For this investigation, the rotating frame will be most useful.  And therefore, for the first, and possible only time, the orientation with which Vertigo is attached to the trampolinist will be important.  Especially, if results between trampolinists are to be compared.
 
 Load the script trampoline_lesson3
+
 Acquire data as before and follow instructions in the command window.
 Several graphs will appear, all with labelled axes to ease understanding.
   
@@ -575,15 +580,33 @@ The following graphs help to understand the problems involved.
 
 
 
+![](tramp7.jpg)        
 
-Rotations can be seen in both the world frame and the trampolinists frame of reference.  What appears to have happened in this example is that the board’s X- axis was rotating about an imaginary axis running East to West.
-The other oscillations are presumably processions.
+
+
+
+
+
+![](tramp8.jpg)  
+
+
+
+
+Rotations can be seen in both the world frame and the trampolinists frame of reference.  What appears to have happened, in this example, is that the board’s X-axis was rotating about an imaginary axis running across the Earth, East to West.
+
+The other oscillations are presumably processional.
+
 The oscillation direction can also be seen from the gyroscope rate.  In the graph below, it is clear the most rotations is occurring around the x-axis.
 
-It should be clear that, if rotations between athletes is to be compared Vertigo will need to be affixed in a consistent manner.
-Or, the trampoline jumper would need to face the same way each time he/she jumped.
-NB – the data used here was obtained by throwing a Vertigo and catching it.  The first thrown was launched with little spin, the second with a higher revolution rate.  These rates would be much higher than a trampolinist might achieve.
 
-Comparing the results found measured with Vertigo against a video recording of a trampolinist would be a very interesting investigation.
+![](tramp9.jpg) 
+
+It should be clear that, if rotations between athletes is to be compared, Vertigo will need to be affixed in a consistent manner.
+Or, the trampoline jumper would need to face the same way each time he/she jumped.
+
+NB – the data used here was obtained by throwing a Vertigo and catching it.  The first throw was launched with little spin, the second with a higher revolution rate.  These rates would be much higher than a trampolinist might achieve.
+
+Comparing the results, measured with Vertigo, against a video recording of a trampolinist, would be a very interesting exercise.
+
 Since angular momentum is always conserved, the rate of rotation can be increased as the trampolinist varies their moment of inertia.  (This is not the case with the ‘board thrown in the air’ data presented here).
 
