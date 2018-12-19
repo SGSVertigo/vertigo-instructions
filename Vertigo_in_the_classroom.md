@@ -35,7 +35,7 @@
 * [Intermediate](#IntermediateJ)
 * [Advanced](#AdvancedJ)
 * [Data](#DataJ)
-* [Scripts](Tramp_scripts_.zip)
+* [Scripts](Tramp_scripts.zip)
 
 
 
