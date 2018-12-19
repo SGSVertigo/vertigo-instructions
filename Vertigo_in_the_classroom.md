@@ -35,7 +35,7 @@
 * [Intermediate](#IntermediateJ)
 * [Advanced](#AdvancedJ)
 * [Data](#DataJ)
-* [Scripts](tramp_link_.zip)
+* [Scripts](Tramp_scripts_.zip)
 
 
 
@@ -255,7 +255,7 @@ The length of the string is not too important but should be between 20cm and 1 m
 
 * Stop the device and press the log button again.
 
-If <a name = "DataP"></a>data acquisition fails, sample data is available for this activity <a name = "DataP"></a>[here](Pendulum_data.csv)
+If <a name = "DataP"></a>data acquisition fails, sample data is available for this activity <a name = "DataJ"></a>[here](Tramp_data.csv)
 
 ### Analysis
 
