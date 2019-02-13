@@ -1,7 +1,9 @@
 
 
 
-#RAF
+# RAF
+
+![matlab](Picture of matlab.jpg)
 
 The application of Newton’s I and II laws to moving objects is often a challenging and fun learning journey for school pupils in KS3 and KS4.  But it is invariably a theoretical exercise.  Diagrams, videos and simulations can all support concept acquisition but, data to analyse, in this topic at least, is difficult to come by.
 
