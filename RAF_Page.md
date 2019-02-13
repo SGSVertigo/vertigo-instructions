@@ -4,12 +4,12 @@
 # RAF
 
 
-![](RAF-Falcons.jpg)                    |  ![](RAF_logo.jpg =100x20)       | 
+<img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/RAF-Falcons.jpg" width="200" height="200" />                    |  ![](RAF_logo.jpg)       | 
 :--------------------------------------:|:------------------------:| 
  The RAF Falcons                        |                          
 
 
-<img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/Circle1.jpg" width="200" height="200" />
+<img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/RAF-Falcons.jpg" width="200" height="200" />
 
 The application of Newton’s I and II laws to moving objects is often a challenging and fun learning journey for school pupils in KS3 and KS4.  But it is invariably a theoretical exercise.  Diagrams, videos and simulations can all support concept acquisition but, data to analyse, in this topic at least, is difficult to come by.
 
