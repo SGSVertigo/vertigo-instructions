@@ -4,7 +4,7 @@
 # RAF
 
 
-![](RAF-Falcons.jpg)                    |  ![](RAF_logo.jpg)       | 
+![](RAF-Falcons.jpg)                    |  ![](RAF_logo.jpg =100x20)       | 
 :--------------------------------------:|:------------------------:| 
  The RAF Falcons                        |                          
 
