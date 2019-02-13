@@ -7,6 +7,12 @@
 
 The application of Newton’s I and II laws to moving objects is often a challenging and fun learning journey for school pupils in KS3 and KS4.  But it is invariably a theoretical exercise.  Diagrams, videos and simulations can all support concept acquisition but, data to analyse, in this topic at least, is difficult to come by.
 
+
+
+![](Seconds_pendulum.jpg)
+
+
+
 IRIS’s project Vertigo offers students just that opportunity.  What’s more, the information has been gathered by the RAF’s very own Falcon’s team.  
 
 Project Vertigo is a collaborative effort made possible through IRIS and the ERAF foundation.  Designed by Dr Jon Sowman (Project Engineer for Fraser Nash) this neat little device offers hi fidelity position and orientation data logging.
