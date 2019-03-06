@@ -10,7 +10,7 @@
 # Introducing Vertigo 
 ### An Institute for Research in Schools project supported by the ERAF
 
-The application of Newton’s I and II laws to moving objects is often a challenging and fun learning journey for school pupils in KS3 and KS4.  But it is invariably a theoretical exercise.  Diagrams, videos and simulations can all support concept acquisition but, data to analyse, in this topic at least, is difficult to come by.
+The application of Newton’s I and II laws to moving objects is often a challenging and fun learning journey for secondary school pupils.  But it is invariably a theoretical exercise.  Diagrams, videos and simulations can all support concept acquisition but, data to analyse, in this topic at least, is difficult to come by.
 
 
 <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/IRIS_logo.png" width="300" height="200" />                             |  <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/Vertigo_logo.jpg" width="300" height="200" />                   | <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/Eleanor_Stride-eraf.jpg" width="300" height="200" /> 
@@ -18,14 +18,14 @@ The application of Newton’s I and II laws to moving objects is often a challen
              
 
 
-IRIS’s 'Project Vertigo' offers students just that opportunity.  What's more, to celebrate the RAF's 100 year aniversary, Flt Lt Mikaela Harrison kindly agreed to take Vertigo on one of her training jumps. Below is a short analysis of the data she recorded for the project, and an insight into the type of learning this can support within schools.
+IRIS’s 'Project Vertigo' offers students just that opportunity.  What's more, to celebrate the RAF's 100 year anniversary, Flt Lt Mikaela Harrison kindly agreed to take Vertigo on one of her training jumps. Below is a short analysis of the data she recorded for the project, and an insight into the type of learning this can support within schools.
 
 | <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/Mikaela.jpg" width="500" height="350" />                    |  <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/Parachute-raf.jpg" width="650" height="350" />     | 
 :--------------------------------------:   |   :------------------------:
 
 
 Project Vertigo is a collaborative effort made possible through IRIS and the ERAF foundation.  Designed by Dr Jon Sowman (Project Engineer for Fraser Nash) this neat little device offers hi-fidelity position and orientation data logging.
-Jon describes, “Developing the firmware that allows Vertigo to output accelerations in a Earth-based reference framce was a real challenge.  But I am delighted that those efforts are now available to schools through IRIS and that the device is being used in so many exciting new contexts.”
+Jon describes, “Developing the firmware that allows Vertigo to output accelerations in a Earth-based reference frame was a real challenge.  But I am delighted that those efforts are now available to schools through IRIS and that the device is being used in so many exciting new contexts.”
 
 
 
@@ -43,7 +43,7 @@ Here is a graph that pupils will have few problems reconciling with their curren
 With the gradient being equal to velocity, it is quite clear to see when the skydiver jumped out of the plane and when she opened her parachute.  An exercise here could be to measure the gradients and find a true value for a person’s terminal velocity.
 
 
-In this example, terminal velocity works out to be m/s whilst in freefall and  m/s once the parachute is deployed.
+In this example, terminal velocity works out to be 60m/s whilst in freefall and 7m/s once the parachute is deployed.
 
 
 Comparing this graph to the vertical forces experienced is fascinating.
@@ -70,7 +70,7 @@ A second point of interest are the two peaks in downward force at 220s and 230s 
 
 Landing occurs at 290s.  We can see that from both the height and force data.  So what is happening at 220 and 230 seconds?
 
-Clues can be gathered here from a gps plot, Horizontal Force and orientation data.
+Clues can be gathered here from a GPS plot, horizontal forces and orientation data.
 
 ![](RAF-GPS-TRACK.jpg)     
 
@@ -81,7 +81,7 @@ Clues can be gathered here from a gps plot, Horizontal Force and orientation dat
  Horizontal Force                       |  Yaw Angle              
 
 
-Whilst approaching the landing zone, the Sky-diver makes several turns to help reach the correct place at the desired speed and angle.
+Whilst approaching the landing zone, the Skydiver makes several turns to help reach the correct leanding-site at the desired speed and angle.
 
 The mechanics of a parachute mean that the centripetal force for these turns acts towards the parachute itself.  And a component of this force acts directly upward, another horizontally.  Somewhat surprisingly, these forces are quite large.  For someone who has never jumped out of a plane, this data was unexpected, although not unexplainable.
 
@@ -97,7 +97,7 @@ Here is a graph showing the acceleration of a one-person electric car driving in
  
 ![](Circle5.jpg)   
 
-Schools wanting to get involved are in for even more of a treat too.  Vertigo has been enhanced, making data analysis easier, more intuitive and in real-time.
+Schools wanting to get involved are in for even more of a treat too.  Vertigo has been enhanced, making data analysis easier, more intuitive and in real-time!
 
 
 ![](Picture of Vertigo)       |  <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/new_webpage.jpg" width="300" height="300" />      | 
@@ -108,7 +108,18 @@ Vertigo unit                 |           New Web based analysis
 
 
 
-The new website – launch at IRIS’s second birthday celebration at the Crick institute, can take data from the new Vertigo units directly through its Bluetooth connection, and plot data immediately.
+Vertigo II along with its new website, launched at IRIS’s second birthday celebration at the Crick institute, can take data from the new Vertigo units directly through its Bluetooth connection, and plot data immediately.
+
+This will make analysis much faster and easier, with the aim of widening participation for pupils not yet ready to take on some more challenging mathematical calculations.
+
+
+
+### 20 Vertigo units will be available through IRIS from April.  
+
+* Borrowing the units is free to schools who have signed-up to the IRIS schools network.
+* Details of how to join can be found here.
+
+
 
 
 
