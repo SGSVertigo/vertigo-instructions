@@ -66,7 +66,7 @@ Here’s the same section with a moving average to help 'iron-out' the variation
 
 It would be intriguing to investigate how this force varies as the skydiver's orientation changes.  Presumably, this will follow the area of the body presented to the down direction, which may be a function of orientation.
 
-A second point of interest are the two peaks in downward force at 220s and 230s respectively.
+A second point of interest are the two peaks in downward force at 273s and 286s respectively.
 
 Landing occurs at 350s.  We can see that from both the height and force data.  But what is happening at 273 and 286 seconds?
 
@@ -76,7 +76,7 @@ Clues can be gathered here from a GPS plot, horizontal forces and orientation da
 
 
 
-![](Horizontal-force.jpg)               |  ![](Yaw_raf.jpg)        | 
+![](Horizontal-force2.jpg)               |  ![](Yaw_raf2.jpg)        | 
 :--------------------------------------:|:------------------------:| 
  Horizontal Force                       |  Yaw Angle              
 
