@@ -18,7 +18,10 @@ The application of Newton’s I and II laws to moving objects is often a challen
              
 
 
-IRIS’s 'Project Vertigo' offers students just that opportunity.  What's more, the information has been gathered by the RAF’s very own Falcons team.  
+IRIS’s 'Project Vertigo' offers students just that opportunity.  What's more, to celebrate the RAF's 100 year aniversary, Flt Lt Mikaela Harrison kindly agreed to take vertigo on one of her training jumps. below is a short analysis of the data she recorded for the project and an insight into the type of learning this can support within schools.
+
+| <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/Mikaela.jpg" width="500" height="300" />                    |  <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/Parachute-raf.jpg" width="500" height="300" />     | 
+:--------------------------------------:   |   :------------------------:
 
 
 Project Vertigo is a collaborative effort made possible through IRIS and the ERAF foundation.  Designed by Dr Jon Sowman (Project Engineer for Fraser Nash) this neat little device offers hi-fidelity position and orientation data logging.
@@ -37,10 +40,10 @@ Here is a graph that pupils will have few problems reconciling with their curren
 ![](Height.jpg) 
 
 
-With the gradient being equal to velocity, it is quite clear to see when the sky-diver jumped out of the plane and when he opened his parachute.  An exercise here could be to measure the gradients and find a true value for a person’s terminal velocity.
+With the gradient being equal to velocity, it is quite clear to see when the skydiver jumped out of the plane and when she opened her parachute.  An exercise here could be to measure the gradients and find a true value for a person’s terminal velocity.
 
 
-In this example, terminal Velocity works out to be m/s whilst in freefall and  m/s once the parachute is deployed.
+In this example, terminal velocity works out to be m/s whilst in freefall and  m/s once the parachute is deployed.
 
 
 Comparing this graph to the vertical forces experienced is fascinating.
@@ -54,10 +57,10 @@ And within that noise is some brilliant data.
 
 
 A special point of interest, is to see the magnitude of the force when the Parachute is first opened.  It doesn’t last too long, but comes on pretty quickly.  It must feel like quite a jolt.
-The other area which certainly warrants further investigation, is the section between 105 and 140 s.  This is when air resistance and drag are in equilibrium.  The graph is anything but smooth however.  And why would it be?  Here we have a human being buffeted around as she moves and adjusts her position within the Falcons Team.  Staying perfectly still must be all but impossible.  The textbooks really are presenting a particularly smoothed outlook on reality.
+The other area which certainly warrants further investigation, is the section between 105 and 140 s.  This is when air resistance and drag are in equilibrium.  The graph is anything but smooth, however.  And why would it be?  Here we have a human, being buffeted around as she moves and adjusts her position within the Falcons Team.  Staying perfectly still must be all but impossible.  The textbooks really are presenting a particularly smoothed outlook on reality!
 
 
-Here’s the same section with a moving average to help iron-out the variation in force.
+Here’s the same section with a moving average to help 'iron-out' the variation in force.
 
 ![](Average_Force.jpg)   
 
@@ -95,7 +98,7 @@ Here is a graph showing the acceleration of a one-person electric car driving in
 Schools wanting to get involved are in for even more of a treat too.  Vertigo has been enhanced, making data analysis easier, more intuitive and in real-time.
 
 
-![](Picture of Vertigo)                      |  ![](Webpage screen shot)       | 
+![](Picture of Vertigo)                      |  ![](new_webpage.jpg)       | 
 :--------------------------------------:|:------------------------:| 
 Vertigo unit                 |           New Web based analysis       
 
