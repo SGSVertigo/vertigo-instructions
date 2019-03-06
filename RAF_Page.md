@@ -95,7 +95,7 @@ Pupils around the country are investigating a massive range of moving objects.  
 Here is a graph showing the acceleration of a one-person electric car driving in a circle.  Notice again how the data is not exactly as one would see it in a GCSE or A-level textbook.  Motion in a circle is nearly always reviewed considering a constant speed.  But that’s not always how things work.  The car, for example, is travelling on a slight slope and so gets slightly faster and slower on its journey.  Hence not all accelerations are completely tangential to the velocity.   
 
  
-![](Car_in_a_circle.jpg)      
+![](Circle5.jpg)   
 
 Schools wanting to get involved are in for even more of a treat too.  Vertigo has been enhanced, making data analysis easier, more intuitive and in real-time.
 
