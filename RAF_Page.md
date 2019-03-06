@@ -8,7 +8,7 @@
 :--------------------------------------:   |   :------------------------:
 
 # Introducing Vertigo 
-### an Institute for Research in Schools project supported by the ERAF
+### An Institute for Research in Schools project supported by the ERAF
 
 The application of Newton’s I and II laws to moving objects is often a challenging and fun learning journey for school pupils in KS3 and KS4.  But it is invariably a theoretical exercise.  Diagrams, videos and simulations can all support concept acquisition but, data to analyse, in this topic at least, is difficult to come by.
 
@@ -18,7 +18,7 @@ The application of Newton’s I and II laws to moving objects is often a challen
              
 
 
-IRIS’s 'Project Vertigo' offers students just that opportunity.  What's more, to celebrate the RAF's 100 year aniversary, Flt Lt Mikaela Harrison kindly agreed to take vertigo on one of her training jumps. below is a short analysis of the data she recorded for the project and an insight into the type of learning this can support within schools.
+IRIS’s 'Project Vertigo' offers students just that opportunity.  What's more, to celebrate the RAF's 100 year aniversary, Flt Lt Mikaela Harrison kindly agreed to take Vertigo on one of her training jumps. Below is a short analysis of the data she recorded for the project, and an insight into the type of learning this can support within schools.
 
 | <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/Mikaela.jpg" width="500" height="350" />                    |  <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/Parachute-raf.jpg" width="650" height="350" />     | 
 :--------------------------------------:   |   :------------------------:
