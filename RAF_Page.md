@@ -41,7 +41,7 @@ This leads to some very interesting results.  And results that are real – not 
 
 Here is a graph that pupils will have few problems reconciling with their current understanding.
 
-![](Height.jpg) 
+![](Height_raf.jpg) 
 
 
 With the gradient being equal to velocity, it is quite clear to see when the skydiver jumped out of the plane and when she opened her parachute.  An exercise here could be to measure the gradients and find a true value for a person’s terminal velocity.
