@@ -3,7 +3,12 @@
 
 
 
-| <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/RAF-Falcons.jpg" width="500" height="300" />                    |  <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/RAF_logo.jpg" width="500" height="300" />     | 
+| <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/RAF-Falcons.jpg" width="500" height="300" /> 
+
+|  <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/RAF_logo.jpg" width="500" height="300" />  
+
+
+| 
 :--------------------------------------:   |   :------------------------:
 
 # Introducing Vertigo 
@@ -13,6 +18,9 @@ The application of Newton’s I and II laws to moving objects is often a challen
 
 
 <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/IRIS_logo.png" width="300" height="200" />                             |  <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/Vertigo_logo.jpg" width="300" height="200" />                   | <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/Eleanor_Stride-eraf.jpg" width="300" height="200" /> 
+
+
+
 :------------------------------------------:|:--------------------------:|:-------------------------------------------:
              
 
