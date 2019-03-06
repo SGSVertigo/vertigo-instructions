@@ -100,7 +100,7 @@ Here is a graph showing the acceleration of a one-person electric car driving in
 Schools wanting to get involved are in for even more of a treat too.  Vertigo has been enhanced, making data analysis easier, more intuitive and in real-time!
 
 
-![](Picture of Vertigo)       |  <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/new_webpage.jpg" width="300" height="300" />      | 
+![](Picture of Vertigo)       |  <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/new_webpage.jpg" width="400" height="300" />      | 
 :--------------------------------------:|:------------------------:| 
 Vertigo unit                 |           New Web based analysis       
 
@@ -116,8 +116,9 @@ This will make analysis much faster and easier, with the aim of widening partici
 
 ### 20 Vertigo units will be available through IRIS from April.  
 
-* Borrowing the units is free to schools who have signed-up to the IRIS schools network.
-* Details of how to join can be found here.
+* Borrowing the units is free to schools who have signed-up to the IRIS schools network
+* The website has several trial activities/ learning resources to help familiarise yourself with the unit
+* Details of how to join can be found here
 
 
 
