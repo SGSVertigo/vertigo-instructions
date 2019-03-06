@@ -24,7 +24,7 @@ To demonstrate some of the devices capabilities, whilst celebrating the RAF's 10
 :--------------------------------------:   |   :------------------------:
 
 
-Project Vertigo is a collaborative effort made possible through IRIS and the ERAF foundation.  Designed by Dr Jon Sowman (Project Engineer for Fraser Nash) this neat little device offers hi-fidelity position and orientation data logging.
+Project Vertigo is a collaborative effort made possible through IRIS and the ERAF foundation.  Designed by Dr Jon Sowman (Project Engineer for Fraser Nash) this neat little device offers data logging with a difference.
 Jon describes, “Developing the firmware that allows Vertigo to output accelerations in a Earth-based reference frame was a real challenge.  But I am delighted that those efforts are now available to schools through IRIS and that the device is being used in so many exciting new contexts.”
 
 
