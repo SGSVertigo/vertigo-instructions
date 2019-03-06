@@ -20,7 +20,7 @@ The application of Newton’s I and II laws to moving objects is often a challen
 
 IRIS’s 'Project Vertigo' offers students just that opportunity.  What's more, to celebrate the RAF's 100 year aniversary, Flt Lt Mikaela Harrison kindly agreed to take vertigo on one of her training jumps. below is a short analysis of the data she recorded for the project and an insight into the type of learning this can support within schools.
 
-| <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/Mikaela.jpg" width="500" height="250" />                    |  <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/Parachute-raf.jpg" width="500" height="300" />     | 
+| <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/Mikaela.jpg" width="600" height="250" />                    |  <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/Parachute-raf.jpg" width="500" height="300" />     | 
 :--------------------------------------:   |   :------------------------:
 
 
@@ -92,16 +92,21 @@ And the scope for analysis is huge.
 
 Pupils around the country are investigating a massive range of moving objects.  Whether it’s a Green-Power car, tube train accelerations, hurricanes or oceanography 
 
-Here is a graph showing the acceleration of a one-person electric car driving in a circle.  Notice again how the data is not exactly as one would see it in a GCSE or A-level textbook.  Motion in a circle is nearly always reviewed considering a constant speed.  But that’s not always how things work.  The car, for example, is travelling on a slight slope and so gets slightly faster and slower on its journey.  Hence not all accelerations are completely tangential to the velocity.    
+Here is a graph showing the acceleration of a one-person electric car driving in a circle.  Notice again how the data is not exactly as one would see it in a GCSE or A-level textbook.  Motion in a circle is nearly always reviewed considering a constant speed.  But that’s not always how things work.  The car, for example, is travelling on a slight slope and so gets slightly faster and slower on its journey.  Hence not all accelerations are completely tangential to the velocity.   
+
  
 ![](Car_in_a_circle.jpg)      
 
 Schools wanting to get involved are in for even more of a treat too.  Vertigo has been enhanced, making data analysis easier, more intuitive and in real-time.
 
 
-![](Picture of Vertigo)                      |  ![](new_webpage.jpg)       | 
+![](Picture of Vertigo)       |  <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/new_webpage.jpg" width="600" height="250" />      | 
 :--------------------------------------:|:------------------------:| 
 Vertigo unit                 |           New Web based analysis       
+
+
+
+
 
 The new website – launch at IRIS’s second birthday celebration at the Crick institute, can take data from the new Vertigo units directly through its Bluetooth connection, and plot data immediately.
 
