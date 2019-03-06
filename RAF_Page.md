@@ -20,7 +20,7 @@ The application of Newton’s I and II laws to moving objects is often a challen
 
 IRIS’s 'Project Vertigo' offers students just that opportunity.  What's more, to celebrate the RAF's 100 year aniversary, Flt Lt Mikaela Harrison kindly agreed to take vertigo on one of her training jumps. below is a short analysis of the data she recorded for the project and an insight into the type of learning this can support within schools.
 
-| <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/Mikaela.jpg" width="500" height="300" />                    |  <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/Parachute-raf.jpg" width="500" height="300" />     | 
+| <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/Mikaela.jpg" width="500" height="250" />                    |  <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/Parachute-raf.jpg" width="500" height="300" />     | 
 :--------------------------------------:   |   :------------------------:
 
 
@@ -71,13 +71,14 @@ A second point of interest are the two peaks in downward force at 220s and 230s 
 Landing occurs at 290s.  We can see that from both the height and force data.  So what is happening at 220 and 230 seconds?
 
 Clues can be gathered here from a gps plot, Horizontal Force and orientation data.
-![](GPS_plot.jpg)     
+
+![](RAF-GPS-TRACK.jpg)     
 
 
 
-![](Horizontal-force.jpg)                      |  ![](Yaw_raf.jpg)       | 
+![](Horizontal-force.jpg)               |  ![](Yaw_raf.jpg)        | 
 :--------------------------------------:|:------------------------:| 
- GPS plot                               |            Yaw Angle              
+ Horizontal Force                       |  Yaw Angle              
 
 
 Whilst approaching the landing zone, the Sky-diver makes several turns to help reach the correct place at the desired speed and angle.
