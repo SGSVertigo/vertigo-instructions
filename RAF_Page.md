@@ -3,9 +3,9 @@
 
 
 
-<img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/RAF-Falcons.jpg" width="400" height="300" /> 
-| <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/RAF_logo.jpg" width="400" height="300" /> | 
-:--------------------------------------:|:------------------------:
+| <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/RAF-Falcons.jpg" width="500" height="300" /> 
+| <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/RAF_logo.jpg" width="500" height="300" />
+:--------------------------------------: | :------------------------:
 
 # Introducing Vertigo 
 ### An Institute for Research in Schools project supported by the ERAF
@@ -13,7 +13,7 @@
 The application of Newton’s I and II laws to moving objects is often a challenging and fun learning journey for secondary school pupils.  But it is invariably a theoretical exercise.  Diagrams, videos and simulations can all support concept acquisition but, data to analyse, in this topic at least, is difficult to come by.
 
 
-<img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/IRIS_logo.png" width="300" height="200" />                             |  <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/Vertigo_logo.jpg" width="300" height="200" />                   | <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/Eleanor_Stride-eraf.jpg" width="300" height="200" /> 
+<img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/IRIS_logo.png" width="300" height="200" />                             |  <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/Vertigo_logo.jpg" width="300" height="200" />                   | <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/Eleanor_Stride-eraf.jpg" width="300" height="200" />
 :------------------------------------------:|:--------------------------:|:-------------------------------------------:
              
 
