@@ -64,11 +64,11 @@ Here’s the same section with a moving average to help 'iron-out' the variation
 
 ![](Average_Force.jpg)   
 
-It would be intriguing to investigate how this force varies as the sky-divers orientation changes.  Presumably, this will follow the area of the body presented to the down direction, which may be a function of orientation.
+It would be intriguing to investigate how this force varies as the skydiver's orientation changes.  Presumably, this will follow the area of the body presented to the down direction, which may be a function of orientation.
 
 A second point of interest are the two peaks in downward force at 220s and 230s respectively.
 
-Landing occurs at 290s.  We can see that from both the height and force data.  So what is happening at 220 and 230 seconds?
+Landing occurs at 350s.  We can see that from both the height and force data.  But what is happening at 273 and 286 seconds?
 
 Clues can be gathered here from a GPS plot, horizontal forces and orientation data.
 
@@ -83,7 +83,7 @@ Clues can be gathered here from a GPS plot, horizontal forces and orientation da
 
 Whilst approaching the landing zone, the Skydiver makes several turns to help reach the correct leanding-site at the desired speed and angle.
 
-The mechanics of a parachute mean that the centripetal force for these turns acts towards the parachute itself.  And a component of this force acts directly upward, another horizontally.  Somewhat surprisingly, these forces are quite large.  For someone who has never jumped out of a plane, this data was unexpected, although not unexplainable.
+The mechanics of a parachute mean that the centripetal force for these turns acts towards the parachute itself.  And a component of this force acts directly upward, another horizontally.  In the graphs above, a significant horizontal force is seen when the yaw angle (a rotation around a vertical axis) is changing rapidly. Somewhat surprisingly, these forces are quite large.  For someone who has never jumped out of a plane, this data was unexpected, although not unexplainable.
 
 
 This has always been one of the pleasures when working with Vertigo data.  What at first glance looks odd, is often very explainable, and challenges pupils' misconceptions of what really does go on in real life.
