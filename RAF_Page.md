@@ -3,7 +3,7 @@
 
 
 
-| <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/RAF-Falcons.jpg" width="500" height="300" /> 
+<img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/RAF-Falcons.jpg" width="500" height="300" /> 
 |  <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/RAF_logo.jpg" width="500" height="300" />
 :--------------------------------------:   |   :------------------------:
 
