@@ -26,6 +26,7 @@ To demonstrate some of the devices capabilities, whilst celebrating the RAF's 10
 
 | <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/Mikaela.jpg" width="500" height="350" />                    |  <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/Parachute-raf.jpg" width="650" height="350" />     | 
 :--------------------------------------:   |   :------------------------:
+Flt lt Mikaela Harrison - "*It's great for the RAF Falcons to be part of such a widespread and inclusive project. We hope that through our work we can inspire the next generation of parachutists and the engineers that support the work that we do. We go through a number of different positions in flight resulting in the various forces acting upon us.  Investigating these should be really interesting*".
 
 
 Project Vertigo is a collaborative effort made possible through IRIS and the ERAF foundation.  Designed by Dr Jon Sowman (Project Engineer for Fraser Nash) this neat little device offers data logging with a difference.
