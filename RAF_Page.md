@@ -25,7 +25,7 @@ IRIS’s 'Project Vertigo' offers students just that opportunity, with a compact
 To demonstrate some of the devices capabilities, whilst celebrating the RAF's 100 year anniversary, Flt Lt Mikaela Harrison kindly agreed to take Vertigo on one of her training camp jumps in America. Below is a short analysis of the data she recorded for the project, and an insight into the type of learning this can support within schools.
 
 | <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/Mikaela.jpg" width="500" height="350" />                    |  <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/Parachute-raf.jpg" width="650" height="350" />     | 
-:--------------------------------------:   |   :------------------------:
+:----------------------------------------------------------------------------------:   |   :--:
 Flt lt Mikaela Harrison - "*It's great for the RAF Falcons to be part of such a widespread and inclusive project. We hope that through our work we can inspire the next generation of parachutists and the engineers that support the work that we do. We go through a number of different positions in flight resulting in the various forces acting upon us.  Investigating these should be really interesting*".
 
 
