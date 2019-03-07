@@ -29,6 +29,9 @@ To demonstrate some of the devices capabilities, whilst celebrating the RAF's 10
 ![](Parachute-Mikaela.jpg) 
 
 
+<im src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/Parachute-Mikaela.jpg" width="500" height="350" /> 
+
+
 
 | <im src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/Parachute-Mikaela.jpg" width="500" height="350" />                     
 :-------------------------------------------------------------------------------------------------------------------:
