@@ -5,7 +5,7 @@
 
 
 
-|<img src="http://vertigo.engineering/vertigo-instructions/RAF-Falcons.jpg" width="200" height="240" />|<img src="http://vertigo.engineering/vertigo-instructions/RAF_logo.jpg" width="200" height="240" />| 
+<img src="http://vertigo.engineering/vertigo-instructions/RAF-Falcons.jpg" width="400" height="240" />|<img src="http://vertigo.engineering/vertigo-instructions/RAF_logo.jpg" width="400" height="240" />| 
 :--------------------------------------:   |   :------------------------:| 
 
 
@@ -16,7 +16,7 @@
 The application of Newton’s I and II laws to moving objects is often a challenging and fun learning journey for secondary school pupils.  But it is invariably a theoretical exercise.  Diagrams, videos and simulations can all support concept acquisition but, data to analyse, in this topic at least, is difficult to come by.
 
 
-|<img src="http://vertigo.engineering/vertigo-instructions/IRIS_logo.png" width="270" height="180" />|<img src="http://vertigo.engineering/vertigo-instructions/Vertigo_logo.jpg" width="270" height="180" />|<img src="http://vertigo.engineering/vertigo-instructions/Eleanor_Stride-eraf.jpg" width="270" height="180" />| 
+<img src="http://vertigo.engineering/vertigo-instructions/IRIS_logo.png" width="270" height="180" />|<img src="http://vertigo.engineering/vertigo-instructions/Vertigo_logo.jpg" width="270" height="180" />|<img src="http://vertigo.engineering/vertigo-instructions/Eleanor_Stride-eraf.jpg" width="270" height="180" />| 
 :------------------------------------------:|:--------------------------:|:-------------------------------------------:| 
              
 
