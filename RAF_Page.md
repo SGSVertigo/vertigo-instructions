@@ -114,7 +114,7 @@ Here is a graph showing the acceleration of a one-person electric car driving in
 Schools wanting to get involved are in for even more of a treat too.  Vertigo has been enhanced, making data analysis easier, more intuitive and in real-time!
 
 
-<img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/VertigoII.jpg" width="400" height="300" />        |  <img src="https://github.com/SGSVertigo/vertigo-instructions/blob/master/new_webpage.jpg" width="400" height="300" />      | 
+<img src="http://vertigo.engineering/vertigo-instructions/VertigoII.jpg" width="400" height="300" />        |  <img src="http://vertigo.engineering/vertigo-instructions/new_webpage.jpg" width="400" height="300" />      | 
 :--------------------------------------:|:------------------------:| 
 Vertigo unit                 |           New Web based analysis       
 
