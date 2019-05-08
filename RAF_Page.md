@@ -1,5 +1,5 @@
 
-<img src="http://vertigo.engineering/vertigo-instructions/RAF-Falcons.jpg" width="270" height="230" /><img src="http://vertigo.engineering/vertigo-instructions/RAF_logo.jpg" width="270" height="230" />
+<img src="http://vertigo.engineering/vertigo-instructions/RAF-Falcons.jpg" width="250" height="230" /><img src="http://vertigo.engineering/vertigo-instructions/RAF_logo.jpg" width="250" height="230" />
 
 
 by [Jamie Costello](https://twitter.com/sgsphysics)                                                                                                
