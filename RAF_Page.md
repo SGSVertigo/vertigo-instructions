@@ -28,7 +28,7 @@ To demonstrate some of the devices capabilities, whilst celebrating the RAF's 10
 Flt lt Mikaela Harrison - "*It's great for the RAF Falcons to be part of such a widespread and inclusive project. We hope that through our work we can inspire the next generation of parachutists and the engineers that support the work that we do. We go through a number of different positions in flight resulting in the various forces acting upon us.  Investigating these should be really interesting*".
 
 
-Project Vertigo is a collaborative effort made possible through IRIS and the ERAF foundation.  Designed by [Dr Jon Sowman](https://twitter.com/jonsowman) (Project Engineer for Fraser Nash) this neat little device offers data logging with a difference.
+Project Vertigo is a collaborative effort made possible through IRIS and the [ERAF foundation](https://www.borntoengineer.com/).  Designed by [Dr Jon Sowman](https://twitter.com/jonsowman) (Project Engineer for Fraser Nash) this neat little device offers data logging with a difference.
 Jon describes, “Developing the firmware that allows Vertigo to output accelerations in a Earth-based reference frame was a real challenge.  But I am delighted that those efforts are now available to schools through IRIS and that the device is being used in so many exciting new contexts.”
 
 
