@@ -3,7 +3,7 @@
 
 
 by [Jamie Costello](https://twitter.com/sgsphysics)                                                                                                
-[All about Vertigo](index.md)
+## Read all about Vertigo [Here](index.md)
 
 
 
