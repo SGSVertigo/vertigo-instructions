@@ -1,5 +1,5 @@
 
-<img src="http://vertigo.engineering/vertigo-instructions/RAF-Falcons.jpg" width="280" height="230" /><img src="http://vertigo.engineering/vertigo-instructions/RAF_logo.jpg" width="280" height="230" />
+<img src="http://vertigo.engineering/vertigo-instructions/RAF-Falcons.jpg" width="275" height="230" /><img src="http://vertigo.engineering/vertigo-instructions/RAF_logo.jpg" width="275" height="230" />
 
 
 
