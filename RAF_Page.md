@@ -1,5 +1,5 @@
 
-<img src="http://vertigo.engineering/vertigo-instructions/RAF-Falcons.jpg" width="200" height="240" /><img src="http://vertigo.engineering/vertigo-instructions/RAF_logo.jpg" width="200" height="240" />
+<img src="http://vertigo.engineering/vertigo-instructions/RAF-Falcons.jpg" width="300" height="240" /><img src="http://vertigo.engineering/vertigo-instructions/RAF_logo.jpg" width="300" height="240" />
 
 
 
@@ -26,7 +26,7 @@ To demonstrate some of the devices capabilities, whilst celebrating the RAF's 10
 
 
 
-|  ![](Parachute-Mikaela.jpg)             |       
+![](Parachute-Mikaela.jpg)|       
 :-------------------------------------------------------------------------------------------------------------------:| 
 Flt lt Mikaela Harrison - "*It's great for the RAF Falcons to be part of such a widespread and inclusive project. We hope that through our work we can inspire the next generation of parachutists and the engineers that support the work that we do. We go through a number of different positions in flight resulting in the various forces acting upon us.  Investigating these should be really interesting*".
 
