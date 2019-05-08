@@ -122,7 +122,7 @@ Vertigo unit                 |           New Web based analysis
 
 
 
-Vertigo II, along with its new website, launched at IRIS’s second birthday celebration at the Crick institute, can take data from the new Vertigo units directly through its Bluetooth connection, and plot data immediately.
+Vertigo II, along with its new website, launched at IRIS’s third birthday celebration at the Crick institute, can take data from the new Vertigo units directly through its Bluetooth connection, and plot data immediately.
 
 This will make analysis much faster and easier, with the aim of widening participation for pupils not yet ready to take on some more challenging mathematical calculations.
 
