@@ -1,20 +1,5 @@
 
 <img src="http://vertigo.engineering/vertigo-instructions/RAF-Falcons.jpg" width="200" height="240" />| <img src="http://vertigo.engineering/vertigo-instructions/RAF_logo.jpg" width="200" height="240" /> 
-:--------------------------------------:|:------------------------:| 
-Vertigo unit                 |           New Web based analysis 
-
-
-
-
-<img src="http://vertigo.engineering/vertigo-instructions/VertigoII.jpg" width="400" height="300" />| <img src="http://vertigo.engineering/vertigo-instructions/new_webpage.jpg" width="400" height="300" />| 
-:--------------------------------------:|:------------------------:| 
-Vertigo unit                 |           New Web based analysis     
-
-
-
-
-<img src="http://vertigo.engineering/vertigo-instructions/RAF-Falcons.jpg" width="200" height="240" />|<img src="http://vertigo.engineering/vertigo-instructions/RAF_logo.jpg" width="200" height="240" />| 
-:--------------------------------------:   |   :------------------------:| 
 
 
 
@@ -25,7 +10,7 @@ The application of Newton’s I and II laws to moving objects is often a challen
 
 
 <img src="http://vertigo.engineering/vertigo-instructions/IRIS_logo.png" width="270" height="180" />|<img src="http://vertigo.engineering/vertigo-instructions/Vertigo_logo.jpg" width="270" height="180" />|<img src="http://vertigo.engineering/vertigo-instructions/Eleanor_Stride-eraf.jpg" width="270" height="180" />| 
-:------------------------------------------:|:--------------------------:|:-------------------------------------------:| 
+
              
 
 
