@@ -1,5 +1,5 @@
 
-<img src="http://vertigo.engineering/vertigo-instructions/RAF-Falcons.jpg" width="300" height="240" /><img src="http://vertigo.engineering/vertigo-instructions/RAF_logo.jpg" width="300" height="240" />
+<img src="http://vertigo.engineering/vertigo-instructions/RAF-Falcons.jpg" width="280" height="230" /><img src="http://vertigo.engineering/vertigo-instructions/RAF_logo.jpg" width="280" height="230" />
 
 
 
@@ -9,7 +9,7 @@
 The application of Newton’s I and II laws to moving objects is often a challenging and fun learning journey for secondary school pupils.  But it is invariably a theoretical exercise.  Diagrams, videos and simulations can all support concept acquisition but, data to analyse, in this topic at least, is difficult to come by.
 
 
-<img src="http://vertigo.engineering/vertigo-instructions/IRIS_logo.png" width="250" height="180" />|<img src="http://vertigo.engineering/vertigo-instructions/Vertigo_logo.jpg" width="250" height="180" />|<img src="http://vertigo.engineering/vertigo-instructions/Eleanor_Stride-eraf.jpg" width="250" height="180" />|
+<img src="http://vertigo.engineering/vertigo-instructions/IRIS_logo.png" width="250" height="170" />|<img src="http://vertigo.engineering/vertigo-instructions/Vertigo_logo.jpg" width="250" height="170" />|<img src="http://vertigo.engineering/vertigo-instructions/Eleanor_Stride-eraf.jpg" width="250" height="170" />|
 
              
 
@@ -18,19 +18,9 @@ IRIS’s 'Project Vertigo' offers students just that opportunity, with a compact
 To demonstrate some of the devices capabilities, whilst celebrating the RAF's 100 year anniversary, Flt Lt Mikaela Harrison kindly agreed to take Vertigo on one of her training camp jumps in America. Below is a short analysis of the data she recorded for the project, and an insight into the type of learning this can support within schools.
 
 
-<img src="http://vertigo.engineering/vertigo-instructions/VertigoII.jpg" width="400" height="300" />| <img src="http://vertigo.engineering/vertigo-instructions/new_webpage.jpg" width="400" height="300" />| 
-:--------------------------------------:|:------------------------:| 
-Vertigo unit                 |           New Web based analysis       
-
-
-
-
-
-
 
 
 ![](Parachute-Mikaela.jpg)      
-:-------------------------------------------------------------------------------------------------------------------:| 
 Flt lt Mikaela Harrison - "*It's great for the RAF Falcons to be part of such a widespread and inclusive project. We hope that through our work we can inspire the next generation of parachutists and the engineers that support the work that we do. We go through a number of different positions in flight resulting in the various forces acting upon us.  Investigating these should be really interesting*".
 
 
