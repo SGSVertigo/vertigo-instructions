@@ -5,7 +5,7 @@
 
 
 
-|<img src="http://vertigo.engineering/vertigo-instructions/RAF-Falcons.jpg" width="400" height="240" />|<img src="http://vertigo.engineering/vertigo-instructions/RAF_logo.jpg" width="400" height="240" />| 
+|<img src="http://vertigo.engineering/vertigo-instructions/RAF-Falcons.jpg" width="200" height="240" />|<img src="http://vertigo.engineering/vertigo-instructions/RAF_logo.jpg" width="200" height="240" />| 
 :--------------------------------------:   |   :------------------------:| 
 
 
