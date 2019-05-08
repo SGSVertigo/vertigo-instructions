@@ -116,7 +116,8 @@ Schools wanting to get involved are in for even more of a treat too.  Vertigo ha
 
 
 <img src="http://vertigo.engineering/vertigo-instructions/VertigoII.jpg" width="400" height="300" />   |  
-<img src="http://vertigo.engineering/vertigo-instructions/new_webpage.jpg" width="400" height="300" /> | :--------------------------------------:|:------------------------:| 
+
+<img src="http://vertigo.engineering/vertigo-instructions/new_webpage.jpg" width="400" height="300" /> :--------------------------------------:|:------------------------:| 
 Vertigo unit                 |           New Web based analysis       
 
 
