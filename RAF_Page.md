@@ -2,6 +2,10 @@
 <img src="http://vertigo.engineering/vertigo-instructions/RAF-Falcons.jpg" width="275" height="230" /><img src="http://vertigo.engineering/vertigo-instructions/RAF_logo.jpg" width="275" height="230" />
 
 
+by [Jamie Costello](https://twitter.com/sgsphysics)                                                                                                
+[Home](index.md)
+
+
 
 # Introducing Vertigo 
 ### An Institute for Research in Schools project supported by the ERAF
