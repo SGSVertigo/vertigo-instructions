@@ -120,7 +120,7 @@ This will make analysis much faster and easier, with the aim of widening partici
 
 ### 20 Vertigo units will be available through IRIS from Autumn 2019.  
 
-* Borrowing the units is free to schools who have signed-up to the IRIS schools network
+* Borrowing the units is free to schools who have signed-up to the [IRIS](http://www.researchinschools.org/projects/vertigo.html) schools network
 * The website has several trial activities/ learning resources to help familiarise yourself with the unit
 * Details of how to join can be found here
 
